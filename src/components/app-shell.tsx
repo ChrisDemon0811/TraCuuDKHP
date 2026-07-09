@@ -170,6 +170,12 @@ function DonateModal({ onClose }: { onClose: () => void }) {
         </div>
 
         <div className="p-5">
+          <div className="mb-4 rounded-2xl bg-[#F8FAFC] p-4 text-center">
+            <p className="text-sm font-bold text-vaa-text">Cảm ơn bạn đã sử dụng website.</p>
+            <p className="mt-1 text-sm leading-6 text-vaa-muted">
+              Nếu thấy công cụ hữu ích, bạn có thể ủng hộ mình một ly cà phê để mình tiếp tục cải thiện nhé.
+            </p>
+          </div>
           <div className="overflow-hidden rounded-[18px] border border-vaa-border bg-[#F8FAFC]">
             {qrFailed ? (
               <div className="flex aspect-square w-full flex-col items-center justify-center gap-3 p-6 text-center">
