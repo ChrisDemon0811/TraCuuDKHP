@@ -1,0 +1,322 @@
+{
+  "faculties": [
+    {
+      "id": "cong-nghe-thong-tin",
+      "name": "Khoa Công nghệ thông tin",
+      "shortName": "Công nghệ thông tin",
+      "patterns": ["xxĐHABxx", "xxĐHAIxx", "xxĐHSAxx", "xxĐHTTxx"],
+      "tokens": ["ĐHAB", "ĐHAI", "ĐHSA", "ĐHTT"]
+    },
+    {
+      "id": "dien-dien-tu",
+      "name": "Khoa Điện - Điện tử",
+      "shortName": "Điện - Điện tử",
+      "patterns": ["xxCHKVxx", "xxĐHĐTxx", "xxĐHĐUxx", "xxĐHTĐxx", "xxĐHURxx"],
+      "tokens": ["CHKV", "ĐHĐT", "ĐHĐU", "ĐHTĐ", "ĐHUR"]
+    },
+    {
+      "id": "du-lich-dich-vu-hang-khong",
+      "name": "Khoa Du lịch và Dịch vụ hàng không",
+      "shortName": "Du lịch và Dịch vụ hàng không",
+      "patterns": ["xxCĐTMxx", "xxĐHDLCx", "xxĐHDLKN", "xxĐHDLLHx", "xxĐHDLxx", "xxĐHKNxx", "xxĐHLHxx", "xxĐHTMxx"],
+      "tokens": ["CĐTM", "ĐHDLC", "ĐHDLKN", "ĐHDLLH", "ĐHDL", "ĐHKN", "ĐHLH", "ĐHTM"]
+    },
+    {
+      "id": "khai-thac-hang-khong",
+      "name": "Khoa Khai thác hàng không",
+      "shortName": "Khai thác hàng không",
+      "patterns": ["xxCCKLxx", "xxCĐKLxx", "xxĐAKLPC", "xxĐAKLQL", "xxĐAKLxx", "xxĐHKLHT", "xxĐHKLQLx", "xxĐHKLxx", "xxĐVKLxx"],
+      "tokens": ["CCKL", "CĐKL", "ĐAKLPC", "ĐAKLQL", "ĐAKL", "ĐHKLHT", "ĐHKLQL", "ĐHKL", "ĐVKL"]
+    },
+    {
+      "id": "kinh-te-hang-khong",
+      "name": "Khoa Kinh tế hàng không",
+      "shortName": "Kinh tế hàng không",
+      "patterns": ["xxĐAKVxx", "xxĐALOxx", "xxĐHKHxx", "xxĐHKQxx", "xxĐHKVCx", "xxĐHKVKH", "xxĐHKVLĐ", "xxĐHKVLĐxx", "xxĐHKVLQx", "xxĐHKVxx", "xxFIATA", "xxTRAODOISV"],
+      "tokens": ["ĐAKV", "ĐALO", "ĐHKH", "ĐHKQ", "ĐHKVC", "ĐHKVKH", "ĐHKVLĐ", "ĐHKVLQ", "ĐHKV", "FIATA", "TRAODOISV"]
+    },
+    {
+      "id": "ky-thuat-hang-khong",
+      "name": "Khoa Kỹ thuật Hàng không",
+      "shortName": "Kỹ thuật Hàng không",
+      "patterns": ["xxCĐCKxx", "xxĐAKTxx", "xxĐHBTxx", "xxĐHKTxx", "xxĐHUVxx"],
+      "tokens": ["CĐCK", "ĐAKT", "ĐHBT", "ĐHKT", "ĐHUV"]
+    },
+    {
+      "id": "ngoai-ngu",
+      "name": "Khoa Ngoại ngữ",
+      "shortName": "Ngoại ngữ",
+      "patterns": ["xxĐHNADL", "xxĐHNAHKx", "xxĐHNATMx", "xxĐHNAxx"],
+      "tokens": ["ĐHNADL", "ĐHNAHK", "ĐHNATM", "ĐHNA"]
+    },
+    {
+      "id": "quan-tri-kinh-doanh",
+      "name": "Khoa Quản trị kinh doanh",
+      "shortName": "Quản trị kinh doanh",
+      "patterns": ["TRAODOISV", "TRAODOISVxxxx", "xxCĐANxx", "xxCHQTCD", "xxCHQTxx", "xxĐAQHxx", "xxĐAQTxx", "xxĐHKSxx", "xxĐHMKxx", "xxĐHNLxx", "xxĐHQTAN", "xxĐHQTCx", "xxĐHQTKQx", "xxĐHQTTH", "xxĐHQTTHx", "xxĐHQTVT", "xxĐHQTVTx", "xxĐHQTxx", "xxĐVQTxx"],
+      "tokens": ["TRAODOISV", "CĐAN", "CHQTCD", "CHQT", "ĐAQH", "ĐAQT", "ĐHKS", "ĐHMK", "ĐHNL", "ĐHQTAN", "ĐHQTC", "ĐHQTKQ", "ĐHQTTH", "ĐHQTVT", "ĐHQT", "ĐVQT"]
+    },
+    {
+      "id": "xay-dung",
+      "name": "Khoa Xây dựng",
+      "shortName": "Xây dựng",
+      "patterns": ["xxĐHQKxx", "xxĐHXDCx", "xxĐHXDxx"],
+      "tokens": ["ĐHQK", "ĐHXDC", "ĐHXD"]
+    },
+    {
+      "id": "phong-dao-tao",
+      "name": "Phòng Đào tạo",
+      "shortName": "Phòng Đào tạo",
+      "patterns": ["BD_HQ"],
+      "tokens": ["BD_HQ"]
+    },
+    {
+      "id": "vien-dao-tao-quoc-te",
+      "name": "Viện Đào tạo quốc tế",
+      "shortName": "Đào tạo quốc tế",
+      "patterns": ["xxTKKTSBxx"],
+      "tokens": ["TKKTSB"]
+    }
+  ],
+  "schedules": [
+    {
+      "id": "2023-dai-hoc",
+      "cohort": 2023,
+      "group": "2023",
+      "title": "Đại học khóa 2023",
+      "appliesToFacultyIds": ["dien-dien-tu", "khai-thac-hang-khong", "ky-thuat-hang-khong", "xay-dung"],
+      "appliesToDescriptions": ["Khoa Điện - Điện tử", "Khoa Khai thác hàng không", "Khoa Kỹ thuật Hàng không", "Khoa Xây dựng"],
+      "startFrom": "2026-07-06T08:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 08 giờ 00 ngày 06/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2024-2a",
+      "cohort": 2024,
+      "group": "2a",
+      "title": "Đại học khóa 2024 - Nhóm 2a",
+      "appliesToFacultyIds": ["dien-dien-tu", "khai-thac-hang-khong", "ky-thuat-hang-khong", "xay-dung"],
+      "appliesToDescriptions": ["Khoa Điện - Điện tử", "Khoa Khai thác hàng không", "Khoa Kỹ thuật Hàng không", "Khoa Xây dựng"],
+      "startFrom": "2026-07-06T11:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 11 giờ 00 ngày 06/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2024-2b",
+      "cohort": 2024,
+      "group": "2b",
+      "title": "Đại học khóa 2024 - Nhóm 2b",
+      "appliesToFacultyIds": ["kinh-te-hang-khong", "du-lich-dich-vu-hang-khong"],
+      "appliesToDescriptions": ["Khoa Kinh tế hàng không", "Khoa Du lịch và Dịch vụ hàng không"],
+      "startFrom": "2026-07-06T15:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 15 giờ 00 ngày 06/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2024-2c",
+      "cohort": 2024,
+      "group": "2c",
+      "title": "Đại học khóa 2024 - Nhóm 2c",
+      "appliesToFacultyIds": ["ngoai-ngu", "cong-nghe-thong-tin"],
+      "appliesToDescriptions": ["Khoa Ngoại ngữ", "Khoa Công nghệ thông tin"],
+      "startFrom": "2026-07-06T20:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 20 giờ 00 ngày 06/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2024-2d",
+      "cohort": 2024,
+      "group": "2d",
+      "title": "Đại học khóa 2024 - Nhóm 2d",
+      "appliesToFacultyIds": ["quan-tri-kinh-doanh"],
+      "appliesToDescriptions": ["Khoa Quản trị kinh doanh"],
+      "startFrom": "2026-07-07T08:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 08 giờ 00 ngày 07/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3a",
+      "cohort": 2025,
+      "group": "3a",
+      "title": "Đại học khóa 2025 - Nhóm 3a",
+      "appliesToFacultyIds": ["dien-dien-tu", "ky-thuat-hang-khong"],
+      "appliesToDescriptions": ["Khoa Điện - Điện tử", "Khoa Kỹ thuật Hàng không"],
+      "startFrom": "2026-07-07T11:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 11 giờ 00 ngày 07/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3b",
+      "cohort": 2025,
+      "group": "3b",
+      "title": "Đại học khóa 2025 - Nhóm 3b",
+      "appliesToFacultyIds": ["khai-thac-hang-khong"],
+      "appliesToDescriptions": ["Khoa Khai thác hàng không"],
+      "startFrom": "2026-07-07T15:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 15 giờ 00 ngày 07/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3c",
+      "cohort": 2025,
+      "group": "3c",
+      "title": "Đại học khóa 2025 - Nhóm 3c",
+      "appliesToFacultyIds": ["kinh-te-hang-khong"],
+      "appliesToDescriptions": ["Khoa Kinh tế hàng không"],
+      "startFrom": "2026-07-07T20:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 20 giờ 00 ngày 07/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3d",
+      "cohort": 2025,
+      "group": "3d",
+      "title": "Đại học khóa 2025 - Nhóm 3d",
+      "appliesToFacultyIds": ["du-lich-dich-vu-hang-khong"],
+      "appliesToDescriptions": ["Khoa Du lịch và Dịch vụ hàng không"],
+      "startFrom": "2026-07-08T08:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 08 giờ 00 ngày 08/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3e",
+      "cohort": 2025,
+      "group": "3e",
+      "title": "Đại học khóa 2025 - Nhóm 3e",
+      "appliesToFacultyIds": ["cong-nghe-thong-tin"],
+      "appliesToDescriptions": ["Khoa Công nghệ thông tin"],
+      "startFrom": "2026-07-08T11:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 11 giờ 00 ngày 08/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    },
+    {
+      "id": "2025-3f",
+      "cohort": 2025,
+      "group": "3f",
+      "title": "Đại học khóa 2025 - Nhóm 3f",
+      "appliesToFacultyIds": ["xay-dung"],
+      "appliesToTokenRules": [
+        {
+          "facultyId": "quan-tri-kinh-doanh",
+          "tokens": ["ĐHMK", "ĐHNL"],
+          "label": "Marketing, Quản trị nhân lực",
+          "certainty": "certain",
+          "note": "Các mã Quản trị hàng không, Kinh doanh số hoặc chuyên ngành quản trị khác cần đối chiếu thêm nếu chưa có token riêng trong dữ liệu."
+        }
+      ],
+      "appliesToDescriptions": ["Các ngành/chuyên ngành thuộc Quản trị kinh doanh: Quản trị nhân lực, Marketing, Kinh doanh số, Quản trị hàng không", "Khoa Xây dựng"],
+      "startFrom": "2026-07-08T15:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 15 giờ 00 ngày 08/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      },
+      "note": "Nếu mã Quản trị kinh doanh chưa phân biệt rõ chuyên ngành, cần đối chiếu chuyên ngành cụ thể."
+    },
+    {
+      "id": "2025-3g",
+      "cohort": 2025,
+      "group": "3g",
+      "title": "Đại học khóa 2025 - Nhóm 3g",
+      "appliesToTokenRules": [
+        {
+          "facultyId": "quan-tri-kinh-doanh",
+          "tokens": ["ĐHQT"],
+          "label": "Ngành Quản trị kinh doanh",
+          "certainty": "certain"
+        }
+      ],
+      "appliesToDescriptions": ["Ngành Quản trị kinh doanh"],
+      "startFrom": "2026-07-08T20:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 20 giờ 00 ngày 08/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      },
+      "note": "Một số mã thuộc Khoa Quản trị kinh doanh có thể cần đối chiếu chuyên ngành để chọn đúng nhóm 3f hoặc 3g."
+    },
+    {
+      "id": "2025-3h",
+      "cohort": 2025,
+      "group": "3h",
+      "title": "Đại học khóa 2025 - Nhóm 3h",
+      "appliesToFacultyIds": ["ngoai-ngu"],
+      "appliesToDescriptions": ["Khoa Ngoại ngữ"],
+      "startFrom": "2026-07-09T08:00:00+07:00",
+      "startTo": "2026-07-11T08:00:00+07:00",
+      "transitionAt": "2026-07-11T08:00:00+07:00",
+      "closeAt": "2026-07-13T08:00:00+07:00",
+      "display": {
+        "start": "Từ 08 giờ 00 ngày 09/07/2026 đến 08 giờ 00 ngày 11/07/2026",
+        "transition": "08 giờ 00 ngày 11/07/2026",
+        "close": "08 giờ 00 ngày 13/07/2026"
+      }
+    }
+  ]
+}
