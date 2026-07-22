@@ -6,7 +6,6 @@ import { usePathname } from "next/navigation";
 import {
   Archive,
   CalendarDays,
-  CircleHelp,
   HeartHandshake,
   GraduationCap,
   LibraryBig,
@@ -36,8 +35,7 @@ const navItems: Array<{
     label: "Góp ý / Báo lỗi",
     mobileLabel: "Góp ý",
     icon: MessageSquareWarning
-  },
-  { href: "/guide", label: "Hướng dẫn", icon: CircleHelp }
+  }
 ];
 
 export function AppShell({ children }: { children: React.ReactNode }) {
@@ -122,7 +120,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
       </div>
 
       <nav className="fixed inset-x-0 bottom-0 z-50 border-t border-vaa-border bg-white/95 px-2 py-2 shadow-[0_-12px_32px_rgba(15,23,42,0.08)] backdrop-blur-xl md:hidden">
-        <div className="mx-auto flex max-w-2xl gap-1 overflow-x-auto">
+        <div className="mx-auto grid max-w-lg grid-cols-5 gap-1">
           {navItems.map((item) => {
             const active = pathname === item.href;
             const Icon = item.icon;
@@ -131,12 +129,14 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               <Link
                 key={item.href}
                 href={item.href}
-                className={`flex min-h-[58px] min-w-[64px] flex-1 flex-col items-center justify-center gap-1 rounded-2xl px-2 text-[11px] font-semibold transition ${
+                className={`flex min-h-[58px] min-w-0 flex-col items-center justify-center gap-1 rounded-2xl px-1 text-center text-[11px] font-semibold transition ${
                   active ? "bg-vaa-navy text-vaa-gold" : "text-vaa-muted hover:bg-slate-50"
                 }`}
               >
                 <Icon size={20} strokeWidth={1.9} />
-                <span className="leading-tight">{item.mobileLabel ?? item.label}</span>
+                <span className="block w-full whitespace-nowrap text-center leading-tight">
+                  {item.mobileLabel ?? item.label}
+                </span>
               </Link>
             );
           })}
