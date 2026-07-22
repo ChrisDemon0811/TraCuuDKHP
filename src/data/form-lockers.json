@@ -1,0 +1,101 @@
+[
+  {
+    "id": "xay-dung",
+    "facultyName": "Khoa Xây dựng",
+    "shortName": "Xây dựng",
+    "lockerLabel": "Tủ biểu mẫu Xây dựng",
+    "scheduleText": "Sáng thứ 3, chiều thứ 5",
+    "slots": [
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "ngoai-ngu",
+    "facultyName": "Khoa Ngoại ngữ",
+    "shortName": "Ngoại ngữ",
+    "lockerLabel": "Tủ biểu mẫu Ngoại ngữ",
+    "scheduleText": "Sáng thứ 4, chiều thứ 6",
+    "slots": [
+      { "dayOfWeek": 3, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 5, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "quan-tri-kinh-doanh",
+    "facultyName": "Khoa Quản trị kinh doanh",
+    "shortName": "Quản trị kinh doanh",
+    "lockerLabel": "Tủ biểu mẫu Quản trị kinh doanh",
+    "scheduleText": "Sáng thứ 2, chiều thứ 2",
+    "slots": [
+      { "dayOfWeek": 1, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 1, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "dien-dien-tu",
+    "facultyName": "Khoa Điện - Điện tử",
+    "shortName": "Điện - Điện tử",
+    "lockerLabel": "Tủ biểu mẫu Điện - Điện tử",
+    "scheduleText": "Sáng thứ 3, chiều thứ 5",
+    "slots": [
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "kinh-te-hang-khong",
+    "facultyName": "Khoa Kinh tế hàng không",
+    "shortName": "Kinh tế hàng không",
+    "lockerLabel": "Tủ biểu mẫu Kinh tế hàng không",
+    "scheduleText": "Sáng thứ 6, chiều thứ 4",
+    "slots": [
+      { "dayOfWeek": 5, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 3, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "khai-thac-hang-khong",
+    "facultyName": "Khoa Khai thác hàng không",
+    "shortName": "Khai thác hàng không",
+    "lockerLabel": "Tủ biểu mẫu Khai thác hàng không",
+    "scheduleText": "Sáng thứ 6, chiều thứ 4",
+    "slots": [
+      { "dayOfWeek": 5, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 3, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "ky-thuat-hang-khong",
+    "facultyName": "Khoa Kỹ thuật hàng không",
+    "shortName": "Kỹ thuật hàng không",
+    "lockerLabel": "Tủ biểu mẫu Kỹ thuật hàng không",
+    "scheduleText": "Sáng thứ 4, chiều thứ 6",
+    "slots": [
+      { "dayOfWeek": 3, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 5, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "cong-nghe-thong-tin",
+    "facultyName": "Khoa Công nghệ thông tin",
+    "shortName": "Công nghệ thông tin",
+    "lockerLabel": "Tủ biểu mẫu CNTT",
+    "scheduleText": "Sáng thứ 3, chiều thứ 5",
+    "slots": [
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  },
+  {
+    "id": "du-lich-dich-vu-hang-khong",
+    "facultyName": "Khoa Du lịch và Dịch vụ hàng không",
+    "shortName": "Du lịch và Dịch vụ hàng không",
+    "lockerLabel": "Tủ biểu mẫu Du lịch và Dịch vụ hàng không",
+    "scheduleText": "Sáng thứ 5, chiều thứ 3",
+    "slots": [
+      { "dayOfWeek": 4, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
+      { "dayOfWeek": 2, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+    ]
+  }
+]

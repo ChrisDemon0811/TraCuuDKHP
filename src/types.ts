@@ -72,3 +72,29 @@ export interface LookupResult {
   warnings: string[];
   message: string;
 }
+
+export type LockerSession = "morning" | "afternoon";
+
+export interface LockerSlot {
+  dayOfWeek: number;
+  session: LockerSession;
+  startTime: string;
+  endTime: string;
+}
+
+export interface FormLocker {
+  id: string;
+  facultyName: string;
+  shortName: string;
+  lockerLabel: string;
+  scheduleText: string;
+  slots: LockerSlot[];
+}
+
+export interface LockerStatus {
+  isOpen: boolean;
+  statusText: "Đang mở" | "Đã khóa";
+  activeSlot: LockerSlot | null;
+  currentSessionText: string | null;
+  nextOpenText: string;
+}

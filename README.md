@@ -118,6 +118,27 @@ npm run build
 
 Khi admin duyệt góp ý đúng, sửa file JSON chính tại `src/data/registration-schedule.json`, commit lên GitHub và để Vercel deploy lại.
 
+## Lịch nhận biểu mẫu
+
+Trang `/form-schedule` hiển thị trạng thái mở tủ nhận biểu mẫu theo thời gian thực. Dữ liệu nằm tại:
+
+```text
+src/data/form-lockers.json
+```
+
+Để sửa lịch của một khoa:
+
+1. Sửa `scheduleText` để cập nhật câu mô tả hiển thị.
+2. Sửa danh sách `slots` theo `dayOfWeek` và `session`. `startTime`, `endTime` chỉ là ranh giới kỹ thuật để xác định buổi.
+
+Quy ước thời gian:
+
+- Giao diện chỉ hiển thị buổi sáng hoặc buổi chiều, không hiển thị giờ mở tủ cụ thể.
+- `dayOfWeek` từ `1` đến `7`: `1` là Thứ 2, `7` là Chủ nhật.
+- `session` nhận giá trị `morning` hoặc `afternoon`.
+
+Trạng thái được tính một lần khi tải trang theo múi giờ `Asia/Ho_Chi_Minh`. Người dùng reload trang để cập nhật trạng thái mới. Chức năng này không cần database hay backend API.
+
 Lưu ý bảo mật:
 
 - Không dùng biến môi trường `NEXT_PUBLIC_` cho Google Sheet ID, email service account hoặc private key.
