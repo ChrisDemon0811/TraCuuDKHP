@@ -1,0 +1,7816 @@
+{
+  "cohort": 2026,
+  "academicYear": "2026-2027",
+  "semester": 1,
+  "sourceFetchedAt": "2026-09-27T08:01:55.740Z",
+  "faculties": [
+    {
+      "facultyId": "cong-nghe-thong-tin",
+      "facultyName": "Khoa Công nghệ thông tin",
+      "facultyOnlyClasses": [],
+      "majors": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "classes": [
+            "26IT101",
+            "26IT102",
+            "26IT201",
+            "26IT202",
+            "26IT203",
+            "26IT204",
+            "26IT205",
+            "26IT301",
+            "26IT302"
+          ]
+        }
+      ]
+    },
+    {
+      "facultyId": "dien-dien-tu",
+      "facultyName": "Khoa Điện - Điện tử",
+      "facultyOnlyClasses": [
+        "26AC101",
+        "26AC201",
+        "26ET101",
+        "26ET201",
+        "26ET301"
+      ],
+      "majors": []
+    },
+    {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "facultyName": "Khoa Du lịch và Dịch vụ hàng không",
+      "facultyOnlyClasses": [],
+      "majors": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "classes": [
+            "26TT101",
+            "26TT102",
+            "26TT103",
+            "26TT104",
+            "26TT201",
+            "26TT202",
+            "26TT203",
+            "26TT301",
+            "26TT302",
+            "26TT303",
+            "26TT304",
+            "26TT401",
+            "26TT402",
+            "26TT403",
+            "26TT501",
+            "26TT502",
+            "26TT503"
+          ]
+        }
+      ]
+    },
+    {
+      "facultyId": "khai-thac-hang-khong",
+      "facultyName": "Khoa Khai thác hàng không",
+      "facultyOnlyClasses": [
+        "26AT001",
+        "26AT002",
+        "26AT003",
+        "26AT701"
+      ],
+      "majors": []
+    },
+    {
+      "facultyId": "kinh-te-hang-khong",
+      "facultyName": "Khoa Kinh tế hàng không",
+      "facultyOnlyClasses": [
+        "26DE001",
+        "26DE002",
+        "26DE003",
+        "26DE004",
+        "26IB101",
+        "26IB102",
+        "26IB103"
+      ],
+      "majors": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "classes": [
+            "26TE101",
+            "26TE102",
+            "26TE103",
+            "26TE104",
+            "26TE105",
+            "26TE201",
+            "26TE202",
+            "26TE203",
+            "26TE204",
+            "26TE205",
+            "26TE206",
+            "26TE207",
+            "26TE208",
+            "26TE701"
+          ]
+        }
+      ]
+    },
+    {
+      "facultyId": "ky-thuat-hang-khong",
+      "facultyName": "Khoa Kỹ thuật Hàng không",
+      "facultyOnlyClasses": [
+        "26AE001",
+        "26AE002",
+        "26AE003",
+        "26AE101",
+        "26AE102",
+        "26AE201",
+        "26AE202",
+        "26AE701"
+      ],
+      "majors": []
+    },
+    {
+      "facultyId": "ngoai-ngu",
+      "facultyName": "Khoa Ngoại ngữ",
+      "facultyOnlyClasses": [
+        "26KO003"
+      ],
+      "majors": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "classes": [
+            "26EN001",
+            "26EN002",
+            "26EN003",
+            "26EN004",
+            "26EN005",
+            "26EN006",
+            "26EN007",
+            "26EN008",
+            "26EN009",
+            "26EN010",
+            "26EN011",
+            "26EN012",
+            "26EN013",
+            "26EN014"
+          ]
+        },
+        {
+          "majorId": "pdt-13",
+          "majorName": "Ngôn ngữ Hàn Quốc",
+          "classes": [
+            "26KO001",
+            "26KO002"
+          ]
+        },
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "classes": [
+            "26CH001",
+            "26CH002",
+            "26CH003",
+            "26CH004",
+            "26CH005",
+            "26CH006",
+            "26CH007"
+          ]
+        }
+      ]
+    },
+    {
+      "facultyId": "quan-tri-kinh-doanh",
+      "facultyName": "Khoa Quản trị kinh doanh",
+      "facultyOnlyClasses": [
+        "26BA001",
+        "26BA002",
+        "26BA003",
+        "26BA004",
+        "26BA005",
+        "26BA006",
+        "26BA007",
+        "26BA008",
+        "26BA009",
+        "26BA010",
+        "26BA011",
+        "26BA012",
+        "26BA013",
+        "26BA501",
+        "26BA502",
+        "26BA503",
+        "26BA701",
+        "26BA702",
+        "26FT001",
+        "26FT002",
+        "26FT003",
+        "26FT004",
+        "26FT005",
+        "26HR001",
+        "26HR002",
+        "26HR003",
+        "26HR004",
+        "26HR005",
+        "26HR006",
+        "26HR007",
+        "26HR008",
+        "26MK001",
+        "26MK002",
+        "26MK003",
+        "26MK004",
+        "26MK005",
+        "26MK006",
+        "26MK007",
+        "26MK008",
+        "26MK009"
+      ],
+      "majors": []
+    },
+    {
+      "facultyId": "xay-dung",
+      "facultyName": "Khoa Xây dựng",
+      "facultyOnlyClasses": [
+        "26LA001",
+        "26LA002",
+        "26LA003"
+      ],
+      "majors": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "classes": [
+            "26CE101",
+            "26CE102",
+            "26CE201",
+            "26CE202",
+            "26CE203",
+            "26CE204"
+          ]
+        }
+      ]
+    }
+  ],
+  "majors": [
+    {
+      "id": "pdt-18",
+      "name": "Kiến trúc cảnh quan",
+      "facultyId": null,
+      "source": null
+    },
+    {
+      "id": "pdt-17",
+      "name": "Kinh tế số",
+      "facultyId": "kinh-te-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/"
+    },
+    {
+      "id": "pdt-19",
+      "name": "Chương trình chung",
+      "facultyId": null,
+      "source": null
+    },
+    {
+      "id": "pdt-11",
+      "name": "Công nghệ kỹ thuật công trình xây dựng",
+      "facultyId": "xay-dung",
+      "source": "https://vaa.edu.vn/khoa/khoa-xay-dung/"
+    },
+    {
+      "id": "pdt-10",
+      "name": "Công nghệ kỹ thuật điện tử - viễn thông",
+      "facultyId": "dien-dien-tu",
+      "source": "https://vaa.edu.vn/khoa-dien-dien-tu/"
+    },
+    {
+      "id": "pdt-9",
+      "name": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+      "facultyId": "dien-dien-tu",
+      "source": "https://vaa.edu.vn/khoa-dien-dien-tu/"
+    },
+    {
+      "id": "pdt-16",
+      "name": "Công nghệ tài chính",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "https://vaa.edu.vn/khoa/fba/"
+    },
+    {
+      "id": "pdt-2",
+      "name": "Công nghệ thông tin",
+      "facultyId": "cong-nghe-thong-tin",
+      "source": "https://fit.vaa.edu.vn/"
+    },
+    {
+      "id": "pdt-3",
+      "name": "Kinh doanh quốc tế",
+      "facultyId": "kinh-te-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/"
+    },
+    {
+      "id": "pdt-7",
+      "name": "Kinh tế vận tải",
+      "facultyId": "kinh-te-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/"
+    },
+    {
+      "id": "pdt-8",
+      "name": "Kỹ thuật hàng không",
+      "facultyId": "ky-thuat-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/khoa-ky-thuat-hang-khong/"
+    },
+    {
+      "id": "pdt-15",
+      "name": "Marketing",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "https://fba.vaa.edu.vn/bo-mon"
+    },
+    {
+      "id": "pdt-12",
+      "name": "Ngôn ngữ Anh",
+      "facultyId": "ngoai-ngu",
+      "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/"
+    },
+    {
+      "id": "pdt-13",
+      "name": "Ngôn ngữ Hàn Quốc",
+      "facultyId": "ngoai-ngu",
+      "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/"
+    },
+    {
+      "id": "pdt-14",
+      "name": "Ngôn ngữ Trung Quốc",
+      "facultyId": "ngoai-ngu",
+      "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/"
+    },
+    {
+      "id": "pdt-6",
+      "name": "Quản lý hoạt động bay",
+      "facultyId": "khai-thac-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/khoa-khai-thac-hang-khong/"
+    },
+    {
+      "id": "pdt-4",
+      "name": "Quản trị dịch vụ du lịch và lữ hành",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "source": "https://vaa.edu.vn/khoa/ftas/"
+    },
+    {
+      "id": "pdt-1",
+      "name": "Quản trị Kinh doanh",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "https://vaa.edu.vn/khoa/fba/"
+    },
+    {
+      "id": "pdt-5",
+      "name": "Quản trị nhân lực",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "https://fba.vaa.edu.vn/bo-mon"
+    }
+  ],
+  "classes": [
+    {
+      "classCode": "26AC101",
+      "prefix": "AC",
+      "classification": "ambiguous",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-9",
+        "pdt-10"
+      ],
+      "observedMajorIds": [
+        "pdt-9",
+        "pdt-10",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-9",
+          "majorName": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153000103"
+          ]
+        },
+        {
+          "majorId": "pdt-10",
+          "majorName": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153000203"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000107",
+        "011110001201",
+        "011110001301",
+        "011110001401",
+        "011110001501",
+        "011110006801",
+        "011153000103",
+        "011153000203",
+        "011153000303"
+      ],
+      "originalClassCodes": [
+        "26AC101"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 25
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AC201",
+      "prefix": "AC",
+      "classification": "ambiguous",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-9",
+        "pdt-10"
+      ],
+      "observedMajorIds": [
+        "pdt-9",
+        "pdt-10",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-9",
+          "majorName": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153000104"
+          ]
+        },
+        {
+          "majorId": "pdt-10",
+          "majorName": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153000204"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110006808",
+        "011153000104",
+        "011153000204",
+        "011153000304"
+      ],
+      "originalClassCodes": [
+        "26AC201"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE001",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001401"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000108",
+        "011110000603",
+        "011110001903",
+        "011110006802",
+        "011110007605",
+        "011153001401"
+      ],
+      "originalClassCodes": [
+        "26AE001"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE002",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001402"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110001904",
+        "011110006803",
+        "011110007606",
+        "011153001402"
+      ],
+      "originalClassCodes": [
+        "26AE002"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE003",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001403"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110001907",
+        "011110006804",
+        "011110007607",
+        "011153001403"
+      ],
+      "originalClassCodes": [
+        "26AE003"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE101",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001405"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000110",
+        "011110000606",
+        "011110006806",
+        "011110007609",
+        "011153001405"
+      ],
+      "originalClassCodes": [
+        "26AE101"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE102",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001406"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110006810",
+        "011110007615",
+        "011153001406"
+      ],
+      "originalClassCodes": [
+        "26AE102"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE201",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011110006007"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110006007",
+        "011110006807",
+        "011110007610"
+      ],
+      "originalClassCodes": [
+        "26AE201"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE202",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011110006008"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000115",
+        "011110000607",
+        "011110006008",
+        "011110006809",
+        "011110007613"
+      ],
+      "originalClassCodes": [
+        "26AE202"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AE701",
+      "prefix": "AE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-8"
+      ],
+      "observedMajorIds": [
+        "pdt-8",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-8",
+          "majorName": "Kỹ thuật hàng không",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011153001404"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000109",
+        "011110000605",
+        "011110001906",
+        "011110006805",
+        "011110007608",
+        "011153001404"
+      ],
+      "originalClassCodes": [
+        "26AE701"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Xây dựng",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AT001",
+      "prefix": "AT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011110006002"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000103",
+        "011110001901",
+        "011110006002",
+        "011110007603",
+        "011152101002",
+        "011154103902"
+      ],
+      "originalClassCodes": [
+        "26AT001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Kỹ thuật Hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 7
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "khai-thac-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AT002",
+      "prefix": "AT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011110006003"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110001902",
+        "011110006003",
+        "011110007604",
+        "011152101003",
+        "011154103903"
+      ],
+      "originalClassCodes": [
+        "26AT002"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Kỹ thuật Hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 3,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 6
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "khai-thac-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AT003",
+      "prefix": "AT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011110006009"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110006009",
+        "011110007614",
+        "011152101004",
+        "011154103904"
+      ],
+      "originalClassCodes": [
+        "26AT003"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Kỹ thuật Hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 2,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 5
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "khai-thac-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26AT701",
+      "prefix": "AT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-6"
+      ],
+      "observedMajorIds": [
+        "pdt-6",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-6",
+          "majorName": "Quản lý hoạt động bay",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "011173110101"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000101",
+        "011110001905",
+        "011152101001",
+        "011154103901",
+        "011173110101",
+        "011173110201"
+      ],
+      "originalClassCodes": [
+        "26AT701"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Khai thác hàng không",
+        "Khoa Kỹ thuật Hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 6
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "khai-thac-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA001",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000118",
+        "010110000627",
+        "010110002603",
+        "010110006125",
+        "010110007110",
+        "010130002120"
+      ],
+      "originalClassCodes": [
+        "26BA001"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA002",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002604",
+        "010110006126",
+        "010110007111",
+        "010130002121"
+      ],
+      "originalClassCodes": [
+        "26BA002"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA003",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000119",
+        "010110000628",
+        "010110002605",
+        "010110006127",
+        "010110007112",
+        "010130002122"
+      ],
+      "originalClassCodes": [
+        "26BA003"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA004",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002606",
+        "010110006128",
+        "010110007113",
+        "010130002123"
+      ],
+      "originalClassCodes": [
+        "26BA004"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA005",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000120",
+        "010110000629",
+        "010110002607",
+        "010110006129",
+        "010110007114",
+        "010130002124"
+      ],
+      "originalClassCodes": [
+        "26BA005"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA006",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002608",
+        "010110006130",
+        "010110007115",
+        "010130002125"
+      ],
+      "originalClassCodes": [
+        "26BA006"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA007",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000121",
+        "010110000630",
+        "010110002609",
+        "010110006131",
+        "010110007116",
+        "010130002126"
+      ],
+      "originalClassCodes": [
+        "26BA007"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA008",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002610",
+        "010110006132",
+        "010110007117",
+        "010130002127"
+      ],
+      "originalClassCodes": [
+        "26BA008"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA009",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000122",
+        "010110000631",
+        "010110002611",
+        "010110006133",
+        "010110007118",
+        "010130002128"
+      ],
+      "originalClassCodes": [
+        "26BA009"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA010",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002001",
+        "010110006134",
+        "010110007119",
+        "010130002129"
+      ],
+      "originalClassCodes": [
+        "26BA010"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA011",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000146",
+        "010110000649",
+        "010110006173",
+        "010110007135",
+        "010130002145"
+      ],
+      "originalClassCodes": [
+        "26BA011"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA012",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006174",
+        "010110007136",
+        "010130002146"
+      ],
+      "originalClassCodes": [
+        "26BA012"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 3,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA013",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000147",
+        "010110000650",
+        "010110006175",
+        "010110007137",
+        "010130002147"
+      ],
+      "originalClassCodes": [
+        "26BA013"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA501",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000111",
+        "010110000623",
+        "010110006111",
+        "010110007102",
+        "010130002106"
+      ],
+      "originalClassCodes": [
+        "26BA501"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA502",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006112",
+        "010110007103",
+        "010130002107"
+      ],
+      "originalClassCodes": [
+        "26BA502"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA503",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000145",
+        "010110000648",
+        "010110006171",
+        "010110007134",
+        "010130002144"
+      ],
+      "originalClassCodes": [
+        "26BA503"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA701",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002002",
+        "010110006102",
+        "010110007101",
+        "010130002101"
+      ],
+      "originalClassCodes": [
+        "26BA701"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26BA702",
+      "prefix": "BA",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000158",
+        "010110000658",
+        "010110006178",
+        "010110007140",
+        "010130002150"
+      ],
+      "originalClassCodes": [
+        "26BA702"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26CE101",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101401",
+            "011152101501",
+            "011152103101"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101401",
+        "011152101501",
+        "011152103101"
+      ],
+      "courseClassCodes": [
+        "011110000106",
+        "011110002001",
+        "011110007602",
+        "011152101401",
+        "011152101501",
+        "011152103101",
+        "011152110101"
+      ],
+      "originalClassCodes": [
+        "26CE101"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 4
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CE102",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101405",
+            "011152101505",
+            "011152103107"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101405",
+        "011152101505",
+        "011152103107"
+      ],
+      "courseClassCodes": [
+        "011110000114",
+        "011110007616",
+        "011152101405",
+        "011152101505",
+        "011152103107",
+        "011152110102"
+      ],
+      "originalClassCodes": [
+        "26CE102"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 5
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CE201",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101402",
+            "011152101502",
+            "011152103102"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101402",
+        "011152101502",
+        "011152103102"
+      ],
+      "courseClassCodes": [
+        "011110000104",
+        "011110006101",
+        "011152101402",
+        "011152101502",
+        "011152103102"
+      ],
+      "originalClassCodes": [
+        "26CE201"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 11,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CE202",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101403",
+            "011152101503",
+            "011152103103"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101403",
+        "011152101503",
+        "011152103103"
+      ],
+      "courseClassCodes": [
+        "011110002102",
+        "011110006102",
+        "011152101403",
+        "011152101503",
+        "011152103103"
+      ],
+      "originalClassCodes": [
+        "26CE202"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CE203",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101404",
+            "011152101504",
+            "011152103104"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101404",
+        "011152101504",
+        "011152103104"
+      ],
+      "courseClassCodes": [
+        "011110002103",
+        "011110006103",
+        "011152101404",
+        "011152101504",
+        "011152103104"
+      ],
+      "originalClassCodes": [
+        "26CE203"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CE204",
+      "prefix": "CE",
+      "classification": "high",
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152101406",
+            "011152101506",
+            "011152103108"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "011152101406",
+        "011152101506",
+        "011152103108"
+      ],
+      "courseClassCodes": [
+        "011110006104",
+        "011152101406",
+        "011152101506",
+        "011152103108"
+      ],
+      "originalClassCodes": [
+        "26CE204"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH001",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 6,
+          "courseClassCodes": [
+            "010171210101",
+            "010171210109",
+            "010171210601",
+            "010171210609",
+            "010171211001",
+            "010171211009"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210101",
+        "010171210109",
+        "010171210601",
+        "010171210609",
+        "010171211001",
+        "010171211009"
+      ],
+      "courseClassCodes": [
+        "010110000134",
+        "010110000638",
+        "010171210101",
+        "010171210109",
+        "010171210601",
+        "010171210609",
+        "010171211001",
+        "010171211009"
+      ],
+      "originalClassCodes": [
+        "26CH001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 16,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH002",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010171210102",
+            "010171210602",
+            "010171211002"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210102",
+        "010171210602",
+        "010171211002"
+      ],
+      "courseClassCodes": [
+        "010171210102",
+        "010171210602",
+        "010171211002"
+      ],
+      "originalClassCodes": [
+        "26CH002"
+      ],
+      "teachingFaculties": [
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH003",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 6,
+          "courseClassCodes": [
+            "010171210103",
+            "010171210110",
+            "010171210603",
+            "010171210610",
+            "010171211003",
+            "010171211010"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210103",
+        "010171210110",
+        "010171210603",
+        "010171210610",
+        "010171211003",
+        "010171211010"
+      ],
+      "courseClassCodes": [
+        "010110000135",
+        "010110000640",
+        "010171210103",
+        "010171210110",
+        "010171210603",
+        "010171210610",
+        "010171211003",
+        "010171211010"
+      ],
+      "originalClassCodes": [
+        "26CH003"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 16,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH004",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010171210104",
+            "010171210604",
+            "010171211004"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210104",
+        "010171210604",
+        "010171211004"
+      ],
+      "courseClassCodes": [
+        "010171210104",
+        "010171210604",
+        "010171211004"
+      ],
+      "originalClassCodes": [
+        "26CH004"
+      ],
+      "teachingFaculties": [
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH005",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 6,
+          "courseClassCodes": [
+            "010171210105",
+            "010171210111",
+            "010171210605",
+            "010171210611",
+            "010171211005",
+            "010171211011"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210105",
+        "010171210111",
+        "010171210605",
+        "010171210611",
+        "010171211005",
+        "010171211011"
+      ],
+      "courseClassCodes": [
+        "010110000136",
+        "010110000642",
+        "010171210105",
+        "010171210111",
+        "010171210605",
+        "010171210611",
+        "010171211005",
+        "010171211011"
+      ],
+      "originalClassCodes": [
+        "26CH005"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 16,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH006",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010171210106",
+            "010171210606",
+            "010171211006"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210106",
+        "010171210606",
+        "010171211006"
+      ],
+      "courseClassCodes": [
+        "010171210106",
+        "010171210606",
+        "010171211006"
+      ],
+      "originalClassCodes": [
+        "26CH006"
+      ],
+      "teachingFaculties": [
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26CH007",
+      "prefix": "CH",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "possibleMajorIds": [
+        "pdt-14"
+      ],
+      "observedMajorIds": [
+        "pdt-14"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-14",
+          "majorName": "Ngôn ngữ Trung Quốc",
+          "uniqueCourseClasses": 6,
+          "courseClassCodes": [
+            "010171210113",
+            "010171210114",
+            "010171210613",
+            "010171210614",
+            "010171211013",
+            "010171211014"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171210113",
+        "010171210114",
+        "010171210613",
+        "010171210614",
+        "010171211013",
+        "010171211014"
+      ],
+      "courseClassCodes": [
+        "010171210113",
+        "010171210114",
+        "010171210613",
+        "010171210614",
+        "010171211013",
+        "010171211014"
+      ],
+      "originalClassCodes": [
+        "26CH007"
+      ],
+      "teachingFaculties": [
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26DE001",
+      "prefix": "DE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-17"
+      ],
+      "observedMajorIds": [
+        "pdt-17",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-17",
+          "majorName": "Kinh tế số",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010174100101"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000132",
+        "010110000635",
+        "010110006154",
+        "010131211710",
+        "010174100101"
+      ],
+      "originalClassCodes": [
+        "26DE001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26DE002",
+      "prefix": "DE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-17"
+      ],
+      "observedMajorIds": [
+        "pdt-17",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-17",
+          "majorName": "Kinh tế số",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010174100102"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006155",
+        "010131211711",
+        "010174100102"
+      ],
+      "originalClassCodes": [
+        "26DE002"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26DE003",
+      "prefix": "DE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-17"
+      ],
+      "observedMajorIds": [
+        "pdt-17",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-17",
+          "majorName": "Kinh tế số",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010174100103"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006156",
+        "010131211712",
+        "010174100103"
+      ],
+      "originalClassCodes": [
+        "26DE003"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26DE004",
+      "prefix": "DE",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-17"
+      ],
+      "observedMajorIds": [
+        "pdt-17",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-17",
+          "majorName": "Kinh tế số",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010174100105"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000159",
+        "010110000659",
+        "010110006193",
+        "010131211723",
+        "010174100105"
+      ],
+      "originalClassCodes": [
+        "26DE004"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26EN001",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100101",
+            "010171100113",
+            "010171100601",
+            "010171100613",
+            "010171101101",
+            "010171101113",
+            "010171101301",
+            "010171101313"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100101",
+        "010171100113",
+        "010171100601",
+        "010171100613",
+        "010171101101",
+        "010171101113",
+        "010171101301",
+        "010171101313"
+      ],
+      "courseClassCodes": [
+        "010110000601",
+        "010110001801",
+        "010171100101",
+        "010171100113",
+        "010171100601",
+        "010171100613",
+        "010171101101",
+        "010171101113",
+        "010171101301",
+        "010171101313"
+      ],
+      "originalClassCodes": [
+        "26EN001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 20,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN002",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100102",
+            "010171100602",
+            "010171101102",
+            "010171101302"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100102",
+        "010171100602",
+        "010171101102",
+        "010171101302"
+      ],
+      "courseClassCodes": [
+        "010110001802",
+        "010171100102",
+        "010171100602",
+        "010171101102",
+        "010171101302"
+      ],
+      "originalClassCodes": [
+        "26EN002"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN003",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100103",
+            "010171100114",
+            "010171100603",
+            "010171100614",
+            "010171101103",
+            "010171101114",
+            "010171101303",
+            "010171101314"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100103",
+        "010171100114",
+        "010171100603",
+        "010171100614",
+        "010171101103",
+        "010171101114",
+        "010171101303",
+        "010171101314"
+      ],
+      "courseClassCodes": [
+        "010110000603",
+        "010110001803",
+        "010171100103",
+        "010171100114",
+        "010171100603",
+        "010171100614",
+        "010171101103",
+        "010171101114",
+        "010171101303",
+        "010171101314"
+      ],
+      "originalClassCodes": [
+        "26EN003"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 19,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN004",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100104",
+            "010171100604",
+            "010171101104",
+            "010171101304"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100104",
+        "010171100604",
+        "010171101104",
+        "010171101304"
+      ],
+      "courseClassCodes": [
+        "010110001804",
+        "010171100104",
+        "010171100604",
+        "010171101104",
+        "010171101304"
+      ],
+      "originalClassCodes": [
+        "26EN004"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN005",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100105",
+            "010171100115",
+            "010171100605",
+            "010171100615",
+            "010171101105",
+            "010171101115",
+            "010171101305",
+            "010171101315"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100105",
+        "010171100115",
+        "010171100605",
+        "010171100615",
+        "010171101105",
+        "010171101115",
+        "010171101305",
+        "010171101315"
+      ],
+      "courseClassCodes": [
+        "010110000605",
+        "010110001805",
+        "010171100105",
+        "010171100115",
+        "010171100605",
+        "010171100615",
+        "010171101105",
+        "010171101115",
+        "010171101305",
+        "010171101315"
+      ],
+      "originalClassCodes": [
+        "26EN005"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 19,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN006",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100106",
+            "010171100606",
+            "010171101106",
+            "010171101306"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100106",
+        "010171100606",
+        "010171101106",
+        "010171101306"
+      ],
+      "courseClassCodes": [
+        "010110001806",
+        "010171100106",
+        "010171100606",
+        "010171101106",
+        "010171101306"
+      ],
+      "originalClassCodes": [
+        "26EN006"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN007",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100107",
+            "010171100116",
+            "010171100607",
+            "010171100616",
+            "010171101107",
+            "010171101116",
+            "010171101307",
+            "010171101316"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100107",
+        "010171100116",
+        "010171100607",
+        "010171100616",
+        "010171101107",
+        "010171101116",
+        "010171101307",
+        "010171101316"
+      ],
+      "courseClassCodes": [
+        "010110000607",
+        "010110001807",
+        "010171100107",
+        "010171100116",
+        "010171100607",
+        "010171100616",
+        "010171101107",
+        "010171101116",
+        "010171101307",
+        "010171101316"
+      ],
+      "originalClassCodes": [
+        "26EN007"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 21,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN008",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100108",
+            "010171100608",
+            "010171101108",
+            "010171101308"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100108",
+        "010171100608",
+        "010171101108",
+        "010171101308"
+      ],
+      "courseClassCodes": [
+        "010110002201",
+        "010171100108",
+        "010171100608",
+        "010171101108",
+        "010171101308"
+      ],
+      "originalClassCodes": [
+        "26EN008"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN009",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100109",
+            "010171100117",
+            "010171100609",
+            "010171100617",
+            "010171101109",
+            "010171101117",
+            "010171101309",
+            "010171101317"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100109",
+        "010171100117",
+        "010171100609",
+        "010171100617",
+        "010171101109",
+        "010171101117",
+        "010171101309",
+        "010171101317"
+      ],
+      "courseClassCodes": [
+        "010110000609",
+        "010110002202",
+        "010171100109",
+        "010171100117",
+        "010171100609",
+        "010171100617",
+        "010171101109",
+        "010171101117",
+        "010171101309",
+        "010171101317"
+      ],
+      "originalClassCodes": [
+        "26EN009"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 19,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN010",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100110",
+            "010171100610",
+            "010171101110",
+            "010171101310"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100110",
+        "010171100610",
+        "010171101110",
+        "010171101310"
+      ],
+      "courseClassCodes": [
+        "010110002203",
+        "010171100110",
+        "010171100610",
+        "010171101110",
+        "010171101310"
+      ],
+      "originalClassCodes": [
+        "26EN010"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN011",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100111",
+            "010171100118",
+            "010171100611",
+            "010171100618",
+            "010171101111",
+            "010171101118",
+            "010171101311",
+            "010171101318"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100111",
+        "010171100118",
+        "010171100611",
+        "010171100618",
+        "010171101111",
+        "010171101118",
+        "010171101311",
+        "010171101318"
+      ],
+      "courseClassCodes": [
+        "010110000611",
+        "010110002204",
+        "010171100111",
+        "010171100118",
+        "010171100611",
+        "010171100618",
+        "010171101111",
+        "010171101118",
+        "010171101311",
+        "010171101318"
+      ],
+      "originalClassCodes": [
+        "26EN011"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 20,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN012",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100112",
+            "010171100612",
+            "010171101112",
+            "010171101312"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100112",
+        "010171100612",
+        "010171101112",
+        "010171101312"
+      ],
+      "courseClassCodes": [
+        "010110002101",
+        "010171100112",
+        "010171100612",
+        "010171101112",
+        "010171101312"
+      ],
+      "originalClassCodes": [
+        "26EN012"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN013",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 8,
+          "courseClassCodes": [
+            "010171100119",
+            "010171100122",
+            "010171100619",
+            "010171100622",
+            "010171101119",
+            "010171101122",
+            "010171101319",
+            "010171101322"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100119",
+        "010171100122",
+        "010171100619",
+        "010171100622",
+        "010171101119",
+        "010171101122",
+        "010171101319",
+        "010171101322"
+      ],
+      "courseClassCodes": [
+        "010110000654",
+        "010171100119",
+        "010171100122",
+        "010171100619",
+        "010171100622",
+        "010171101119",
+        "010171101122",
+        "010171101319",
+        "010171101322"
+      ],
+      "originalClassCodes": [
+        "26EN013"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 23,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26EN014",
+      "prefix": "EN",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "possibleMajorIds": [
+        "pdt-12"
+      ],
+      "observedMajorIds": [
+        "pdt-12"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-12",
+          "majorName": "Ngôn ngữ Anh",
+          "uniqueCourseClasses": 4,
+          "courseClassCodes": [
+            "010171100120",
+            "010171100620",
+            "010171101120",
+            "010171101320"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171100120",
+        "010171100620",
+        "010171101120",
+        "010171101320"
+      ],
+      "courseClassCodes": [
+        "010171100120",
+        "010171100620",
+        "010171101120",
+        "010171101320"
+      ],
+      "originalClassCodes": [
+        "26EN014"
+      ],
+      "teachingFaculties": [
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26ET101",
+      "prefix": "ET",
+      "classification": "ambiguous",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-10",
+        "pdt-9"
+      ],
+      "observedMajorIds": [
+        "pdt-9",
+        "pdt-10",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-10",
+          "majorName": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011153000201",
+            "011153000501",
+            "011153000504"
+          ]
+        },
+        {
+          "majorId": "pdt-9",
+          "majorName": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "011153000101",
+            "011153000604"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110002104",
+        "011153000101",
+        "011153000201",
+        "011153000301",
+        "011153000501",
+        "011153000504",
+        "011153000604"
+      ],
+      "originalClassCodes": [
+        "26ET101"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 13,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26ET201",
+      "prefix": "ET",
+      "classification": "ambiguous",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-10",
+        "pdt-9"
+      ],
+      "observedMajorIds": [
+        "pdt-9",
+        "pdt-10",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-10",
+          "majorName": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011153000202",
+            "011153000502",
+            "011153000503"
+          ]
+        },
+        {
+          "majorId": "pdt-9",
+          "majorName": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "011153000102",
+            "011153000605"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000102",
+        "011110002105",
+        "011153000102",
+        "011153000202",
+        "011153000302",
+        "011153000502",
+        "011153000503",
+        "011153000605"
+      ],
+      "originalClassCodes": [
+        "26ET201"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 14,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26ET301",
+      "prefix": "ET",
+      "classification": "ambiguous",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-10",
+        "pdt-9"
+      ],
+      "observedMajorIds": [
+        "pdt-9",
+        "pdt-10",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-10",
+          "majorName": "Công nghệ kỹ thuật điện tử - viễn thông",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011153000205",
+            "011153000505",
+            "011153000506"
+          ]
+        },
+        {
+          "majorId": "pdt-9",
+          "majorName": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "011153000105",
+            "011153000606"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000112",
+        "011153000105",
+        "011153000205",
+        "011153000305",
+        "011153000505",
+        "011153000506",
+        "011153000606"
+      ],
+      "originalClassCodes": [
+        "26ET301"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Điện - Điện tử"
+      ],
+      "matchCounts": {
+        "exact": 16,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26FT001",
+      "prefix": "FT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-2"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010151100111"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000123",
+        "010110000632",
+        "010110006135",
+        "010110007120",
+        "010151100111"
+      ],
+      "originalClassCodes": [
+        "26FT001"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26FT002",
+      "prefix": "FT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-2"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010151100112"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006136",
+        "010110007121",
+        "010151100112"
+      ],
+      "originalClassCodes": [
+        "26FT002"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26FT003",
+      "prefix": "FT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-2"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010151100113"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000124",
+        "010110000633",
+        "010110006137",
+        "010110007122",
+        "010151100113"
+      ],
+      "originalClassCodes": [
+        "26FT003"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26FT004",
+      "prefix": "FT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-2"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010151100114"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006138",
+        "010110007123",
+        "010151100114"
+      ],
+      "originalClassCodes": [
+        "26FT004"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26FT005",
+      "prefix": "FT",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-2"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010151100117"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006192",
+        "010110007143",
+        "010151100117"
+      ],
+      "originalClassCodes": [
+        "26FT005"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR001",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000112",
+        "010110000624",
+        "010110002612",
+        "010110006113",
+        "010110007104",
+        "010130002108"
+      ],
+      "originalClassCodes": [
+        "26HR001"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR002",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002613",
+        "010110006114",
+        "010110007105",
+        "010130002109"
+      ],
+      "originalClassCodes": [
+        "26HR002"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR003",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000113",
+        "010110000625",
+        "010110002614",
+        "010110006115",
+        "010110007106",
+        "010130002110"
+      ],
+      "originalClassCodes": [
+        "26HR003"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR004",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002615",
+        "010110006116",
+        "010110007107",
+        "010130002111"
+      ],
+      "originalClassCodes": [
+        "26HR004"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR005",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000114",
+        "010110000626",
+        "010110002616",
+        "010110006117",
+        "010110007108",
+        "010130002112"
+      ],
+      "originalClassCodes": [
+        "26HR005"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR006",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002617",
+        "010110006118",
+        "010110007109",
+        "010130002113"
+      ],
+      "originalClassCodes": [
+        "26HR006"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 4,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR007",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000150",
+        "010110000653",
+        "010110006181",
+        "010110007141",
+        "010130002152"
+      ],
+      "originalClassCodes": [
+        "26HR007"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26HR008",
+      "prefix": "HR",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006182",
+        "010110007142",
+        "010130002153"
+      ],
+      "originalClassCodes": [
+        "26HR008"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26IB101",
+      "prefix": "IB",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006021"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000110",
+        "010110000622",
+        "010110001201",
+        "010110001301",
+        "010110001401",
+        "010110001501",
+        "010110002102",
+        "010110006021",
+        "010110006109",
+        "010130002104"
+      ],
+      "originalClassCodes": [
+        "26IB101"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 26
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26IB102",
+      "prefix": "IB",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006022"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110002103",
+        "010110006022",
+        "010110006110",
+        "010130002105"
+      ],
+      "originalClassCodes": [
+        "26IB102"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26IB103",
+      "prefix": "IB",
+      "classification": "medium",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006032"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006032",
+        "010110006180",
+        "010130002151"
+      ],
+      "originalClassCodes": [
+        "26IB103"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26IT101",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100101",
+            "010151100201",
+            "010151100501"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006006"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100101",
+        "010151100201",
+        "010151100501"
+      ],
+      "courseClassCodes": [
+        "010110000101",
+        "010110002003",
+        "010110006006",
+        "010151100101",
+        "010151100201",
+        "010151100501"
+      ],
+      "originalClassCodes": [
+        "26IT101"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT102",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100102",
+            "010151100202",
+            "010151100502"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006007"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100102",
+        "010151100202",
+        "010151100502"
+      ],
+      "courseClassCodes": [
+        "010110002004",
+        "010110006007",
+        "010151100102",
+        "010151100202",
+        "010151100502"
+      ],
+      "originalClassCodes": [
+        "26IT102"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT201",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100105",
+            "010151100205",
+            "010151100505"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006010"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100105",
+        "010151100205",
+        "010151100505"
+      ],
+      "courseClassCodes": [
+        "010110000103",
+        "010110001603",
+        "010110006010",
+        "010151100105",
+        "010151100205",
+        "010151100505"
+      ],
+      "originalClassCodes": [
+        "26IT201"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT202",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100106",
+            "010151100206",
+            "010151100506"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006011"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100106",
+        "010151100206",
+        "010151100506"
+      ],
+      "courseClassCodes": [
+        "010110001604",
+        "010110006011",
+        "010151100106",
+        "010151100206",
+        "010151100506"
+      ],
+      "originalClassCodes": [
+        "26IT202"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 11,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT203",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100107",
+            "010151100207",
+            "010151100507"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006012"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100107",
+        "010151100207",
+        "010151100507"
+      ],
+      "courseClassCodes": [
+        "010110000104",
+        "010110001605",
+        "010110006012",
+        "010151100107",
+        "010151100207",
+        "010151100507"
+      ],
+      "originalClassCodes": [
+        "26IT203"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 13,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT204",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100108",
+            "010151100208",
+            "010151100508"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006013"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100108",
+        "010151100208",
+        "010151100508"
+      ],
+      "courseClassCodes": [
+        "010110001606",
+        "010110006013",
+        "010151100108",
+        "010151100208",
+        "010151100508"
+      ],
+      "originalClassCodes": [
+        "26IT204"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 11,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT205",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100109",
+            "010151100209",
+            "010151100509"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006014"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100109",
+        "010151100209",
+        "010151100509"
+      ],
+      "courseClassCodes": [
+        "010110000105",
+        "010110001607",
+        "010110006014",
+        "010151100109",
+        "010151100209",
+        "010151100509"
+      ],
+      "originalClassCodes": [
+        "26IT205"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 11,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT301",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100103",
+            "010151100203",
+            "010151100503"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006008"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100103",
+        "010151100203",
+        "010151100503"
+      ],
+      "courseClassCodes": [
+        "010110000102",
+        "010110002005",
+        "010110006008",
+        "010151100103",
+        "010151100203",
+        "010151100503"
+      ],
+      "originalClassCodes": [
+        "26IT301"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 13,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26IT302",
+      "prefix": "IT",
+      "classification": "high",
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "possibleMajorIds": [
+        "pdt-2",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-2",
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-2",
+          "majorName": "Công nghệ thông tin",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010151100104",
+            "010151100204",
+            "010151100504"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006009"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010151100104",
+        "010151100204",
+        "010151100504"
+      ],
+      "courseClassCodes": [
+        "010110002006",
+        "010110006009",
+        "010151100104",
+        "010151100204",
+        "010151100504"
+      ],
+      "originalClassCodes": [
+        "26IT302"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "cong-nghe-thong-tin",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26KO001",
+      "prefix": "KO",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-13"
+      ],
+      "possibleMajorIds": [
+        "pdt-13",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-13",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-13",
+          "majorName": "Ngôn ngữ Hàn Quốc",
+          "uniqueCourseClasses": 6,
+          "courseClassCodes": [
+            "010171310101",
+            "010171310104",
+            "010171310501",
+            "010171310504",
+            "010171310901",
+            "010171310904"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006023"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171310101",
+        "010171310104",
+        "010171310501",
+        "010171310504",
+        "010171310901",
+        "010171310904"
+      ],
+      "courseClassCodes": [
+        "010110000636",
+        "010110006023",
+        "010171310101",
+        "010171310104",
+        "010171310501",
+        "010171310504",
+        "010171310901",
+        "010171310904"
+      ],
+      "originalClassCodes": [
+        "26KO001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 16,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26KO002",
+      "prefix": "KO",
+      "classification": "high",
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-13"
+      ],
+      "possibleMajorIds": [
+        "pdt-13",
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-13"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-13",
+          "majorName": "Ngôn ngữ Hàn Quốc",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "010171310102",
+            "010171310502",
+            "010171310902"
+          ]
+        },
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 1,
+          "courseClassCodes": [
+            "010110006024"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010171310102",
+        "010171310502",
+        "010171310902"
+      ],
+      "courseClassCodes": [
+        "010110006024",
+        "010171310102",
+        "010171310502",
+        "010171310902"
+      ],
+      "originalClassCodes": [
+        "26KO002"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không",
+        "Khoa Ngoại ngữ"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26KO003",
+      "prefix": "KO",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000637"
+      ],
+      "originalClassCodes": [
+        "26KO003"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản"
+      ],
+      "matchCounts": {
+        "exact": 2,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "ngoai-ngu",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26LA001",
+      "prefix": "LA",
+      "classification": "needs_review",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152103105",
+            "011152113201",
+            "011155110601"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000111",
+        "011110007611",
+        "011152103105",
+        "011152113201",
+        "011155110601"
+      ],
+      "originalClassCodes": [
+        "26LA001"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": "PDT has no landscape-architecture records; construction-course overlap is insufficient.",
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26LA002",
+      "prefix": "LA",
+      "classification": "needs_review",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152103106",
+            "011152113202",
+            "011155110602"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110007612",
+        "011152103106",
+        "011152113202",
+        "011155110602"
+      ],
+      "originalClassCodes": [
+        "26LA002"
+      ],
+      "teachingFaculties": [
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": "PDT has no landscape-architecture records; construction-course overlap is insufficient.",
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26LA003",
+      "prefix": "LA",
+      "classification": "needs_review",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [
+        "pdt-11"
+      ],
+      "observedMajorIds": [
+        "pdt-11",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-11",
+          "majorName": "Công nghệ kỹ thuật công trình xây dựng",
+          "uniqueCourseClasses": 3,
+          "courseClassCodes": [
+            "011152103109",
+            "011152113203",
+            "011155110603"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "011110000116",
+        "011110007617",
+        "011152103109",
+        "011152113203",
+        "011155110603"
+      ],
+      "originalClassCodes": [
+        "26LA003"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Xây dựng"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": "PDT has no landscape-architecture records; construction-course overlap is insufficient.",
+      "resolvedFacultyId": "xay-dung",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK001",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000141",
+        "010110006162",
+        "010110007125",
+        "010131211713"
+      ],
+      "originalClassCodes": [
+        "26MK001"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK002",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006163",
+        "010110007126",
+        "010131211714"
+      ],
+      "originalClassCodes": [
+        "26MK002"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK003",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000142",
+        "010110006164",
+        "010110007127",
+        "010131211715"
+      ],
+      "originalClassCodes": [
+        "26MK003"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK004",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006165",
+        "010110007128",
+        "010131211716"
+      ],
+      "originalClassCodes": [
+        "26MK004"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK005",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000143",
+        "010110006166",
+        "010110007129",
+        "010131211717"
+      ],
+      "originalClassCodes": [
+        "26MK005"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK006",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006167",
+        "010110007130",
+        "010131211718"
+      ],
+      "originalClassCodes": [
+        "26MK006"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 5,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK007",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110000144",
+        "010110006168",
+        "010110007131",
+        "010131211719"
+      ],
+      "originalClassCodes": [
+        "26MK007"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK008",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006169",
+        "010110007132",
+        "010131211720"
+      ],
+      "originalClassCodes": [
+        "26MK008"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26MK009",
+      "prefix": "MK",
+      "classification": "unmatched",
+      "facultyId": null,
+      "majorIds": [],
+      "possibleMajorIds": [],
+      "observedMajorIds": [
+        "pdt-19"
+      ],
+      "majorEvidence": [],
+      "supportingCourseClassCodes": [],
+      "courseClassCodes": [
+        "010110006194",
+        "010110007144",
+        "010131211724"
+      ],
+      "originalClassCodes": [
+        "26MK009"
+      ],
+      "teachingFaculties": [
+        "Khoa Công nghệ thông tin",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping"
+    },
+    {
+      "classCode": "26TE101",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006016",
+            "010173202201"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006016",
+        "010173202201"
+      ],
+      "courseClassCodes": [
+        "010110000107",
+        "010110000619",
+        "010110002205",
+        "010110006016",
+        "010110006103",
+        "010173202201"
+      ],
+      "originalClassCodes": [
+        "26TE101"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE102",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006019",
+            "010173202202"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006019",
+        "010173202202"
+      ],
+      "courseClassCodes": [
+        "010110002206",
+        "010110006019",
+        "010110006104",
+        "010173202202"
+      ],
+      "originalClassCodes": [
+        "26TE102"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE103",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006018",
+            "010173202203"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006018",
+        "010173202203"
+      ],
+      "courseClassCodes": [
+        "010110000108",
+        "010110000621",
+        "010110002207",
+        "010110006018",
+        "010110006105",
+        "010173202203"
+      ],
+      "originalClassCodes": [
+        "26TE103"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 11,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE104",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006020",
+            "010173202204"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006020",
+        "010173202204"
+      ],
+      "courseClassCodes": [
+        "010110006020",
+        "010110006106",
+        "010173202204"
+      ],
+      "originalClassCodes": [
+        "26TE104"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE105",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006034",
+            "010173202211"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006034",
+        "010173202211"
+      ],
+      "courseClassCodes": [
+        "010110000656",
+        "010110006034",
+        "010110006183",
+        "010173202211"
+      ],
+      "originalClassCodes": [
+        "26TE105"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE201",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006026",
+            "010173202205"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006026",
+        "010173202205"
+      ],
+      "courseClassCodes": [
+        "010110000138",
+        "010110000645",
+        "010110006026",
+        "010110006157",
+        "010173202205"
+      ],
+      "originalClassCodes": [
+        "26TE201"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE202",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006027",
+            "010173202206"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006027",
+        "010173202206"
+      ],
+      "courseClassCodes": [
+        "010110006027",
+        "010110006158",
+        "010173202206"
+      ],
+      "originalClassCodes": [
+        "26TE202"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE203",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006028",
+            "010173202207"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006028",
+        "010173202207"
+      ],
+      "courseClassCodes": [
+        "010110000139",
+        "010110000647",
+        "010110006028",
+        "010110006159",
+        "010173202207"
+      ],
+      "originalClassCodes": [
+        "26TE203"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE204",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006029",
+            "010173202208"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006029",
+        "010173202208"
+      ],
+      "courseClassCodes": [
+        "010110006029",
+        "010110006160",
+        "010173202208"
+      ],
+      "originalClassCodes": [
+        "26TE204"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE205",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006030",
+            "010173202209"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006030",
+        "010173202209"
+      ],
+      "courseClassCodes": [
+        "010110000140",
+        "010110006030",
+        "010110006161",
+        "010173202209"
+      ],
+      "originalClassCodes": [
+        "26TE205"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE206",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006031",
+            "010173202210"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006031",
+        "010173202210"
+      ],
+      "courseClassCodes": [
+        "010110006031",
+        "010110006172",
+        "010173202210"
+      ],
+      "originalClassCodes": [
+        "26TE206"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE207",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006035",
+            "010173202212"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006035",
+        "010173202212"
+      ],
+      "courseClassCodes": [
+        "010110000152",
+        "010110000657",
+        "010110006035",
+        "010110006184",
+        "010173202212"
+      ],
+      "originalClassCodes": [
+        "26TE207"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE208",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006036",
+            "010173202213"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006036",
+        "010173202213"
+      ],
+      "courseClassCodes": [
+        "010110006036",
+        "010110006185",
+        "010173202213"
+      ],
+      "originalClassCodes": [
+        "26TE208"
+      ],
+      "teachingFaculties": [
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TE701",
+      "prefix": "TE",
+      "classification": "high",
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "possibleMajorIds": [
+        "pdt-7"
+      ],
+      "observedMajorIds": [
+        "pdt-7",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-7",
+          "majorName": "Kinh tế vận tải",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010110006037",
+            "010173202214"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010110006037",
+        "010173202214"
+      ],
+      "courseClassCodes": [
+        "010110000106",
+        "010110000617",
+        "010110001602",
+        "010110006037",
+        "010110006101",
+        "010173202214"
+      ],
+      "originalClassCodes": [
+        "26TE701"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Kinh tế hàng không"
+      ],
+      "matchCounts": {
+        "exact": 12,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 0
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "kinh-te-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT101",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110103",
+            "010172110203"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110103",
+        "010172110203"
+      ],
+      "courseClassCodes": [
+        "010110000115",
+        "010110001903",
+        "010110006119",
+        "010130002114",
+        "010172110103",
+        "010172110203"
+      ],
+      "originalClassCodes": [
+        "26TT101"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT102",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110104",
+            "010172110204"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110104",
+        "010172110204"
+      ],
+      "courseClassCodes": [
+        "010110001904",
+        "010110006120",
+        "010130002115",
+        "010172110104",
+        "010172110204"
+      ],
+      "originalClassCodes": [
+        "26TT102"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT103",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110105",
+            "010172110205"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110105",
+        "010172110205"
+      ],
+      "courseClassCodes": [
+        "010110000116",
+        "010110001905",
+        "010110006121",
+        "010130002116",
+        "010172110105",
+        "010172110205"
+      ],
+      "originalClassCodes": [
+        "26TT103"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT104",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110115",
+            "010172110215"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110115",
+        "010172110215"
+      ],
+      "courseClassCodes": [
+        "010110006187",
+        "010130002155",
+        "010172110115",
+        "010172110215"
+      ],
+      "originalClassCodes": [
+        "26TT104"
+      ],
+      "teachingFaculties": [
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT201",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110111",
+            "010172110211"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110111",
+        "010172110211"
+      ],
+      "courseClassCodes": [
+        "010110000127",
+        "010110001909",
+        "010110006142",
+        "010130002132",
+        "010172110111",
+        "010172110211"
+      ],
+      "originalClassCodes": [
+        "26TT201"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT202",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110112",
+            "010172110212"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110112",
+        "010172110212"
+      ],
+      "courseClassCodes": [
+        "010110001910",
+        "010110006143",
+        "010130002133",
+        "010172110112",
+        "010172110212"
+      ],
+      "originalClassCodes": [
+        "26TT202"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT203",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110113",
+            "010172110213"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110113",
+        "010172110213"
+      ],
+      "courseClassCodes": [
+        "010110001911",
+        "010110006144",
+        "010130002134",
+        "010172110113",
+        "010172110213"
+      ],
+      "originalClassCodes": [
+        "26TT203"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT301",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110106",
+            "010172110206"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110106",
+        "010172110206"
+      ],
+      "courseClassCodes": [
+        "010110000117",
+        "010110001906",
+        "010110006122",
+        "010130002117",
+        "010172110106",
+        "010172110206"
+      ],
+      "originalClassCodes": [
+        "26TT301"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT302",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110107",
+            "010172110207"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110107",
+        "010172110207"
+      ],
+      "courseClassCodes": [
+        "010110001907",
+        "010110006123",
+        "010130002118",
+        "010172110107",
+        "010172110207"
+      ],
+      "originalClassCodes": [
+        "26TT302"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT303",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110108",
+            "010172110208"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110108",
+        "010172110208"
+      ],
+      "courseClassCodes": [
+        "010110001908",
+        "010110006124",
+        "010130002119",
+        "010172110108",
+        "010172110208"
+      ],
+      "originalClassCodes": [
+        "26TT303"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 7,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT304",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110117",
+            "010172110217"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110117",
+        "010172110217"
+      ],
+      "courseClassCodes": [
+        "010110000157",
+        "010110006190",
+        "010130002157",
+        "010172110117",
+        "010172110217"
+      ],
+      "originalClassCodes": [
+        "26TT304"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 9,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT401",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110101",
+            "010172110201"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110101",
+        "010172110201"
+      ],
+      "courseClassCodes": [
+        "010110000109",
+        "010110001912",
+        "010110006107",
+        "010130002102",
+        "010172110101",
+        "010172110201"
+      ],
+      "originalClassCodes": [
+        "26TT401"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT402",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110102",
+            "010172110202"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110102",
+        "010172110202"
+      ],
+      "courseClassCodes": [
+        "010110001913",
+        "010110006108",
+        "010130002103",
+        "010172110102",
+        "010172110202"
+      ],
+      "originalClassCodes": [
+        "26TT402"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT403",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110118",
+            "010172110218"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110118",
+        "010172110218"
+      ],
+      "courseClassCodes": [
+        "010110006191",
+        "010130002158",
+        "010172110118",
+        "010172110218"
+      ],
+      "originalClassCodes": [
+        "26TT403"
+      ],
+      "teachingFaculties": [
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 6,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 3
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT501",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110109",
+            "010172110209"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110109",
+        "010172110209"
+      ],
+      "courseClassCodes": [
+        "010110000126",
+        "010110001914",
+        "010110006140",
+        "010130002130",
+        "010172110109",
+        "010172110209"
+      ],
+      "originalClassCodes": [
+        "26TT501"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 10,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT502",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110110",
+            "010172110210"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110110",
+        "010172110210"
+      ],
+      "courseClassCodes": [
+        "010110001915",
+        "010110006141",
+        "010130002131",
+        "010172110110",
+        "010172110210"
+      ],
+      "originalClassCodes": [
+        "26TT502"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    },
+    {
+      "classCode": "26TT503",
+      "prefix": "TT",
+      "classification": "high",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "possibleMajorIds": [
+        "pdt-4"
+      ],
+      "observedMajorIds": [
+        "pdt-4",
+        "pdt-19"
+      ],
+      "majorEvidence": [
+        {
+          "majorId": "pdt-4",
+          "majorName": "Quản trị dịch vụ du lịch và lữ hành",
+          "uniqueCourseClasses": 2,
+          "courseClassCodes": [
+            "010172110114",
+            "010172110214"
+          ]
+        }
+      ],
+      "supportingCourseClassCodes": [
+        "010172110114",
+        "010172110214"
+      ],
+      "courseClassCodes": [
+        "010110000153",
+        "010110006186",
+        "010130002154",
+        "010172110114",
+        "010172110214"
+      ],
+      "originalClassCodes": [
+        "26TT503"
+      ],
+      "teachingFaculties": [
+        "Khoa Cơ bản",
+        "Khoa Du lịch và Dịch vụ hàng không",
+        "Khoa Kinh tế hàng không",
+        "Khoa Quản trị kinh doanh"
+      ],
+      "matchCounts": {
+        "exact": 8,
+        "high": 0,
+        "medium": 0,
+        "ambiguous": 0,
+        "unmatched": 2
+      },
+      "reviewReason": null,
+      "resolvedFacultyId": "du-lich-dich-vu-hang-khong",
+      "facultySource": "pdt_cross_reference"
+    }
+  ],
+  "tokens": [
+    {
+      "token": "AC",
+      "totalClasses": 2,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 2,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "AE",
+      "totalClasses": 8,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 8,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "AT",
+      "totalClasses": 4,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 4,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "BA",
+      "totalClasses": 18,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 18,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "CE",
+      "totalClasses": 6,
+      "acceptedClasses": 6,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-11"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    },
+    {
+      "token": "CH",
+      "totalClasses": 7,
+      "acceptedClasses": 7,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-14"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    },
+    {
+      "token": "DE",
+      "totalClasses": 4,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 4,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "EN",
+      "totalClasses": 14,
+      "acceptedClasses": 14,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-12"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    },
+    {
+      "token": "ET",
+      "totalClasses": 3,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 3,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "FT",
+      "totalClasses": 5,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 5,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "HR",
+      "totalClasses": 8,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 8,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "IB",
+      "totalClasses": 3,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 3,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "IT",
+      "totalClasses": 9,
+      "acceptedClasses": 9,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-2"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    },
+    {
+      "token": "KO",
+      "totalClasses": 3,
+      "acceptedClasses": 2,
+      "unresolvedClasses": 1,
+      "majorIds": [
+        "pdt-13"
+      ],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "LA",
+      "totalClasses": 3,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 3,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "MK",
+      "totalClasses": 9,
+      "acceptedClasses": 0,
+      "unresolvedClasses": 9,
+      "majorIds": [],
+      "collision": false,
+      "safeInObservedData": false
+    },
+    {
+      "token": "TE",
+      "totalClasses": 14,
+      "acceptedClasses": 14,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-7"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    },
+    {
+      "token": "TT",
+      "totalClasses": 17,
+      "acceptedClasses": 17,
+      "unresolvedClasses": 0,
+      "majorIds": [
+        "pdt-4"
+      ],
+      "collision": false,
+      "safeInObservedData": true
+    }
+  ],
+  "diagnostics": {
+    "svRecords": 3081,
+    "pdtRecords": 5003,
+    "pdtDistinctRecords": 2690,
+    "sv2026Records": 1403,
+    "unique2026ClassCodes": 137,
+    "matchCounts": {
+      "exact": 1200,
+      "high": 0,
+      "medium": 0,
+      "ambiguous": 0,
+      "unmatched": 203
+    },
+    "classificationCounts": {
+      "high": 69,
+      "medium": 24,
+      "ambiguous": 5,
+      "unmatched": 36,
+      "needs_review": 3
+    },
+    "facultiesDetected": [
+      "cong-nghe-thong-tin",
+      "dien-dien-tu",
+      "du-lich-dich-vu-hang-khong",
+      "khai-thac-hang-khong",
+      "kinh-te-hang-khong",
+      "ky-thuat-hang-khong",
+      "ngoai-ngu",
+      "quan-tri-kinh-doanh",
+      "xay-dung"
+    ],
+    "majorsDetected": [
+      "pdt-11",
+      "pdt-12",
+      "pdt-13",
+      "pdt-14",
+      "pdt-2",
+      "pdt-4",
+      "pdt-7"
+    ],
+    "safeTokens": [
+      "CE",
+      "CH",
+      "EN",
+      "IT",
+      "TE",
+      "TT"
+    ],
+    "tokenCollisions": [],
+    "unresolvedTokens": [
+      "AC",
+      "AE",
+      "AT",
+      "BA",
+      "DE",
+      "ET",
+      "FT",
+      "HR",
+      "IB",
+      "KO",
+      "LA",
+      "MK"
+    ],
+    "repeatedClassCodeRows": 1266,
+    "duplicateClassCodeKeys": 0,
+    "duplicateMajorIds": 0,
+    "classesWithoutFaculty": 0,
+    "classesWithoutSourceVerifiedFaculty": 68,
+    "classesWithCuratedFaculty": 68,
+    "classesWithoutMajor": 68,
+    "classesWithMultipleMajorEvidence": 16,
+    "svRecordsMissingCourseCode": 3081,
+    "svRecordsMissingClassCode": 0,
+    "svRecordsMissingCourseClassCode": 0,
+    "pdtRecordsMissingCourseCode": 5003,
+    "pdtRecordsMissingStudentClassCode": 5003,
+    "pdtRecordsMissingCourseClassCode": 0,
+    "pdtUnmatchedCourseClassCodes": 627
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "svRecords": 3081,
+  "pdtRecords": 5003,
+  "pdtDistinctRecords": 2690,
+  "sv2026Records": 1403,
+  "unique2026ClassCodes": 137,
+  "matchCounts": {
+    "exact": 1200,
+    "high": 0,
+    "medium": 0,
+    "ambiguous": 0,
+    "unmatched": 203
+  },
+  "classificationCounts": {
+    "high": 69,
+    "medium": 24,
+    "ambiguous": 5,
+    "unmatched": 36,
+    "needs_review": 3
+  },
+  "facultiesDetected": [
+    "cong-nghe-thong-tin",
+    "dien-dien-tu",
+    "du-lich-dich-vu-hang-khong",
+    "khai-thac-hang-khong",
+    "kinh-te-hang-khong",
+    "ky-thuat-hang-khong",
+    "ngoai-ngu",
+    "quan-tri-kinh-doanh",
+    "xay-dung"
+  ],
+  "majorsDetected": [
+    "pdt-11",
+    "pdt-12",
+    "pdt-13",
+    "pdt-14",
+    "pdt-2",
+    "pdt-4",
+    "pdt-7"
+  ],
+  "safeTokens": [
+    "CE",
+    "CH",
+    "EN",
+    "IT",
+    "TE",
+    "TT"
+  ],
+  "tokenCollisions": [],
+  "unresolvedTokens": [
+    "AC",
+    "AE",
+    "AT",
+    "BA",
+    "DE",
+    "ET",
+    "FT",
+    "HR",
+    "IB",
+    "KO",
+    "LA",
+    "MK"
+  ],
+  "repeatedClassCodeRows": 1266,
+  "duplicateClassCodeKeys": 0,
+  "duplicateMajorIds": 0,
+  "classesWithoutFaculty": 0,
+  "classesWithoutSourceVerifiedFaculty": 68,
+  "classesWithCuratedFaculty": 68,
+  "classesWithoutMajor": 68,
+  "classesWithMultipleMajorEvidence": 16,
+  "svRecordsMissingCourseCode": 3081,
+  "svRecordsMissingClassCode": 0,
+  "svRecordsMissingCourseClassCode": 0,
+  "pdtRecordsMissingCourseCode": 5003,
+  "pdtRecordsMissingStudentClassCode": 5003,
+  "pdtRecordsMissingCourseClassCode": 0,
+  "pdtUnmatchedCourseClassCodes": 627
+}

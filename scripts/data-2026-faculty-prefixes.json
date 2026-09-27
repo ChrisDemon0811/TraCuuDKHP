@@ -1,0 +1,17 @@
+{
+  "source": "user_provided_faculty_mapping",
+  "rules": [
+    { "prefix": "AC", "facultyId": "dien-dien-tu" },
+    { "prefix": "ET", "facultyId": "dien-dien-tu" },
+    { "prefix": "AE", "facultyId": "ky-thuat-hang-khong" },
+    { "prefix": "AT", "facultyId": "khai-thac-hang-khong" },
+    { "prefix": "BA", "facultyId": "quan-tri-kinh-doanh" },
+    { "prefix": "HR", "facultyId": "quan-tri-kinh-doanh" },
+    { "prefix": "MK", "facultyId": "quan-tri-kinh-doanh" },
+    { "prefix": "FT", "facultyId": "quan-tri-kinh-doanh" },
+    { "prefix": "DE", "facultyId": "kinh-te-hang-khong" },
+    { "prefix": "IB", "facultyId": "kinh-te-hang-khong" },
+    { "prefix": "KO", "facultyId": "ngoai-ngu" },
+    { "prefix": "LA", "facultyId": "xay-dung" }
+  ]
+}

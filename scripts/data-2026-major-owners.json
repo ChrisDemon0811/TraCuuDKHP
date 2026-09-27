@@ -1,0 +1,21 @@
+{
+  "1": { "name": "Quản trị Kinh doanh", "facultyId": "quan-tri-kinh-doanh", "source": "https://vaa.edu.vn/khoa/fba/" },
+  "2": { "name": "Công nghệ thông tin", "facultyId": "cong-nghe-thong-tin", "source": "https://fit.vaa.edu.vn/" },
+  "3": { "name": "Kinh doanh quốc tế", "facultyId": "kinh-te-hang-khong", "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/" },
+  "4": { "name": "Quản trị dịch vụ du lịch và lữ hành", "facultyId": "du-lich-dich-vu-hang-khong", "source": "https://vaa.edu.vn/khoa/ftas/" },
+  "5": { "name": "Quản trị nhân lực", "facultyId": "quan-tri-kinh-doanh", "source": "https://fba.vaa.edu.vn/bo-mon" },
+  "6": { "name": "Quản lý hoạt động bay", "facultyId": "khai-thac-hang-khong", "source": "https://vaa.edu.vn/khoa/khoa-khai-thac-hang-khong/" },
+  "7": { "name": "Kinh tế vận tải", "facultyId": "kinh-te-hang-khong", "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/" },
+  "8": { "name": "Kỹ thuật hàng không", "facultyId": "ky-thuat-hang-khong", "source": "https://vaa.edu.vn/khoa/khoa-ky-thuat-hang-khong/" },
+  "9": { "name": "Công nghệ kỹ thuật điều khiển và tự động hóa", "facultyId": "dien-dien-tu", "source": "https://vaa.edu.vn/khoa-dien-dien-tu/" },
+  "10": { "name": "Công nghệ kỹ thuật điện tử - viễn thông", "facultyId": "dien-dien-tu", "source": "https://vaa.edu.vn/khoa-dien-dien-tu/" },
+  "11": { "name": "Công nghệ kỹ thuật công trình xây dựng", "facultyId": "xay-dung", "source": "https://vaa.edu.vn/khoa/khoa-xay-dung/" },
+  "12": { "name": "Ngôn ngữ Anh", "facultyId": "ngoai-ngu", "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/" },
+  "13": { "name": "Ngôn ngữ Hàn Quốc", "facultyId": "ngoai-ngu", "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/" },
+  "14": { "name": "Ngôn ngữ Trung Quốc", "facultyId": "ngoai-ngu", "source": "https://vaa.edu.vn/khoa/khoa-ngoai-ngu/" },
+  "15": { "name": "Marketing", "facultyId": "quan-tri-kinh-doanh", "source": "https://fba.vaa.edu.vn/bo-mon" },
+  "16": { "name": "Công nghệ tài chính", "facultyId": "quan-tri-kinh-doanh", "source": "https://vaa.edu.vn/khoa/fba/" },
+  "17": { "name": "Kinh tế số", "facultyId": "kinh-te-hang-khong", "source": "https://vaa.edu.vn/khoa/khoa-kinh-te-hang-khong/" },
+  "18": { "name": "Kiến trúc cảnh quan", "facultyId": null, "source": null },
+  "19": { "name": "Chương trình chung", "facultyId": null, "source": null }
+}

@@ -115,7 +115,9 @@ function LookupResultPanel({ result }: { result: LookupResult }) {
       <NoticeCard
         tone="neutral"
         title="Chưa tìm thấy khoa/ngành"
-        message="Bạn có thể mở mục Mã ngành để đối chiếu lại phần mã ở giữa mã lớp."
+        message={result.cohort === 2026
+          ? result.message
+          : "Bạn có thể mở mục Mã ngành để đối chiếu lại phần mã ở giữa mã lớp."}
       />
     );
   }
@@ -171,11 +173,16 @@ function ResultFacts({ result }: { result: LookupResult }) {
       <Fact label="Mã lớp đã nhập" value={result.normalizedCode || "Chưa có"} />
       <Fact label="Khóa phát hiện được" value={result.cohort ? String(result.cohort) : "Chưa đọc được"} />
       <Fact label="Khoa/ngành phát hiện được" value={selectedFaculty?.faculty.name ?? "Chưa nhận diện"} />
+      {result.majorNames?.length ? (
+        <Fact label="Ngành học đối chiếu" value={result.majorNames.join(", ")} />
+      ) : null}
       <Fact
         label="Mẫu mã ngành khớp"
         value={
           selectedFaculty
-            ? formatMatchedCodes(selectedFaculty.matchedPatterns, selectedFaculty.matchedTokens)
+            ? selectedFaculty.matchKind === "class_mapping"
+              ? "Đối chiếu mã lớp 2026"
+              : formatMatchedCodes(selectedFaculty.matchedPatterns, selectedFaculty.matchedTokens)
             : "Chưa có"
         }
       />

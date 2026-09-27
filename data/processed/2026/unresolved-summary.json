@@ -1,0 +1,252 @@
+{
+  "cohort": 2026,
+  "totalClassesWithoutConfirmedMajor": 68,
+  "groups": [
+    {
+      "prefix": "AC",
+      "count": 2,
+      "facultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26AC101",
+        "26AC201"
+      ],
+      "classifications": [
+        "ambiguous"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Công nghệ kỹ thuật điều khiển và tự động hóa",
+        "Công nghệ kỹ thuật điện tử - viễn thông"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "AE",
+      "count": 8,
+      "facultyId": "ky-thuat-hang-khong",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26AE001",
+        "26AE002",
+        "26AE003",
+        "26AE101",
+        "26AE102",
+        "26AE201",
+        "26AE202",
+        "26AE701"
+      ],
+      "classifications": [
+        "medium"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Kinh tế vận tải",
+        "Kỹ thuật hàng không"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "AT",
+      "count": 4,
+      "facultyId": "khai-thac-hang-khong",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26AT001",
+        "26AT002",
+        "26AT003",
+        "26AT701"
+      ],
+      "classifications": [
+        "medium"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Kinh tế vận tải",
+        "Quản lý hoạt động bay"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "BA",
+      "count": 18,
+      "facultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26BA001",
+        "26BA002",
+        "26BA003",
+        "26BA004",
+        "26BA005",
+        "26BA006",
+        "26BA007",
+        "26BA008",
+        "26BA009",
+        "26BA010",
+        "26BA011",
+        "26BA012",
+        "26BA013",
+        "26BA501",
+        "26BA502",
+        "26BA503",
+        "26BA701",
+        "26BA702"
+      ],
+      "classifications": [
+        "unmatched"
+      ],
+      "unconfirmedPdtMajorCandidates": [],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "DE",
+      "count": 4,
+      "facultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26DE001",
+        "26DE002",
+        "26DE003",
+        "26DE004"
+      ],
+      "classifications": [
+        "medium"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Kinh tế số"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "ET",
+      "count": 3,
+      "facultyId": "dien-dien-tu",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26ET101",
+        "26ET201",
+        "26ET301"
+      ],
+      "classifications": [
+        "ambiguous"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Công nghệ kỹ thuật điều khiển và tự động hóa",
+        "Công nghệ kỹ thuật điện tử - viễn thông"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "FT",
+      "count": 5,
+      "facultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26FT001",
+        "26FT002",
+        "26FT003",
+        "26FT004",
+        "26FT005"
+      ],
+      "classifications": [
+        "medium"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Công nghệ thông tin"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "HR",
+      "count": 8,
+      "facultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26HR001",
+        "26HR002",
+        "26HR003",
+        "26HR004",
+        "26HR005",
+        "26HR006",
+        "26HR007",
+        "26HR008"
+      ],
+      "classifications": [
+        "unmatched"
+      ],
+      "unconfirmedPdtMajorCandidates": [],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "IB",
+      "count": 3,
+      "facultyId": "kinh-te-hang-khong",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26IB101",
+        "26IB102",
+        "26IB103"
+      ],
+      "classifications": [
+        "medium"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Kinh tế vận tải"
+      ],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "KO",
+      "count": 1,
+      "facultyId": "ngoai-ngu",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26KO003"
+      ],
+      "classifications": [
+        "unmatched"
+      ],
+      "unconfirmedPdtMajorCandidates": [],
+      "reviewReasons": []
+    },
+    {
+      "prefix": "LA",
+      "count": 3,
+      "facultyId": "xay-dung",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26LA001",
+        "26LA002",
+        "26LA003"
+      ],
+      "classifications": [
+        "needs_review"
+      ],
+      "unconfirmedPdtMajorCandidates": [
+        "Công nghệ kỹ thuật công trình xây dựng"
+      ],
+      "reviewReasons": [
+        "PDT has no landscape-architecture records; construction-course overlap is insufficient."
+      ]
+    },
+    {
+      "prefix": "MK",
+      "count": 9,
+      "facultyId": "quan-tri-kinh-doanh",
+      "facultySource": "user_provided_faculty_mapping",
+      "classCodes": [
+        "26MK001",
+        "26MK002",
+        "26MK003",
+        "26MK004",
+        "26MK005",
+        "26MK006",
+        "26MK007",
+        "26MK008",
+        "26MK009"
+      ],
+      "classifications": [
+        "unmatched"
+      ],
+      "unconfirmedPdtMajorCandidates": [],
+      "reviewReasons": []
+    }
+  ]
+}

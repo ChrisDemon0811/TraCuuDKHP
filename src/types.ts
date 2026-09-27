@@ -45,7 +45,7 @@ export interface FacultyDetection {
   faculty: Faculty;
   matchedPatterns: string[];
   matchedTokens: string[];
-  matchKind: "pattern" | "token";
+  matchKind: "pattern" | "token" | "class_mapping" | "cohort_prefix" | "curated_prefix";
 }
 
 export interface ScheduleMatch {
@@ -68,6 +68,7 @@ export interface LookupResult {
   cohort: number | null;
   facultyMatches: FacultyDetection[];
   selectedFaculty?: FacultyDetection;
+  majorNames?: string[];
   schedules: ScheduleMatch[];
   warnings: string[];
   message: string;

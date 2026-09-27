@@ -6,8 +6,8 @@
     "lockerLabel": "Tủ biểu mẫu Xây dựng",
     "scheduleText": "Sáng thứ 3, chiều thứ 5",
     "slots": [
-      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -17,8 +17,8 @@
     "lockerLabel": "Tủ biểu mẫu Ngoại ngữ",
     "scheduleText": "Sáng thứ 4, chiều thứ 6",
     "slots": [
-      { "dayOfWeek": 3, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 5, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 3, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 5, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -28,8 +28,8 @@
     "lockerLabel": "Tủ biểu mẫu Quản trị kinh doanh",
     "scheduleText": "Sáng thứ 2, chiều thứ 2",
     "slots": [
-      { "dayOfWeek": 1, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 1, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 1, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 1, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -39,8 +39,8 @@
     "lockerLabel": "Tủ biểu mẫu Điện - Điện tử",
     "scheduleText": "Sáng thứ 3, chiều thứ 5",
     "slots": [
-      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -50,8 +50,8 @@
     "lockerLabel": "Tủ biểu mẫu Kinh tế hàng không",
     "scheduleText": "Sáng thứ 6, chiều thứ 4",
     "slots": [
-      { "dayOfWeek": 5, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 3, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 5, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 3, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -61,8 +61,8 @@
     "lockerLabel": "Tủ biểu mẫu Khai thác hàng không",
     "scheduleText": "Sáng thứ 6, chiều thứ 4",
     "slots": [
-      { "dayOfWeek": 5, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 3, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 5, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 3, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -72,8 +72,8 @@
     "lockerLabel": "Tủ biểu mẫu Kỹ thuật hàng không",
     "scheduleText": "Sáng thứ 4, chiều thứ 6",
     "slots": [
-      { "dayOfWeek": 3, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 5, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 3, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 5, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -83,8 +83,8 @@
     "lockerLabel": "Tủ biểu mẫu CNTT",
     "scheduleText": "Sáng thứ 3, chiều thứ 5",
     "slots": [
-      { "dayOfWeek": 2, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 4, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 2, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 4, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   },
   {
@@ -94,8 +94,8 @@
     "lockerLabel": "Tủ biểu mẫu Du lịch và Dịch vụ hàng không",
     "scheduleText": "Sáng thứ 5, chiều thứ 3",
     "slots": [
-      { "dayOfWeek": 4, "session": "morning", "startTime": "07:00", "endTime": "11:59" },
-      { "dayOfWeek": 2, "session": "afternoon", "startTime": "12:00", "endTime": "17:00" }
+      { "dayOfWeek": 4, "session": "morning", "startTime": "07:30", "endTime": "11:30" },
+      { "dayOfWeek": 2, "session": "afternoon", "startTime": "13:00", "endTime": "17:00" }
     ]
   }
 ]

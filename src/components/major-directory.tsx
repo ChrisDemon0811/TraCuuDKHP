@@ -2,7 +2,21 @@
 
 import { useMemo, useState } from "react";
 import { ChevronDown, LibraryBig, Search } from "lucide-react";
+import classMappings2026 from "@/data/class-mappings-2026.json";
 import { faculties } from "@/lib/data";
+
+const prefixes2026ByFaculty = new Map<string, string[]>();
+for (const rule of [
+  ...classMappings2026.safePrefixRules,
+  ...classMappings2026.curatedFacultyPrefixRules
+]) {
+  const prefixes = prefixes2026ByFaculty.get(rule.facultyId) ?? [];
+  prefixes.push(rule.prefix);
+  prefixes2026ByFaculty.set(rule.facultyId, prefixes);
+}
+for (const prefixes of prefixes2026ByFaculty.values()) {
+  prefixes.sort();
+}
 
 const palette = [
   "bg-[#DBEAFE] text-[#1D4ED8]",
@@ -27,7 +41,11 @@ export function MajorDirectory() {
         faculty.name,
         faculty.shortName,
         ...faculty.patterns,
-        ...faculty.tokens
+        ...faculty.tokens,
+        ...(prefixes2026ByFaculty.get(faculty.id) ?? []).flatMap((prefix) => [
+          `26${prefix}`,
+          `xx${prefix}xxx`
+        ])
       ]
         .join(" ")
         .toLocaleUpperCase("vi-VN");
@@ -64,7 +82,7 @@ export function MajorDirectory() {
             id="majorSearch"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Ví dụ: Công nghệ thông tin, ĐHTT, ĐHKL..."
+            placeholder="Ví dụ: 26IT, 26BA, ĐHTT..."
             className="h-14 w-full rounded-2xl border border-vaa-border bg-[#F8FAFC] pl-12 pr-4 text-base font-semibold text-vaa-text outline-none transition placeholder:text-slate-400 focus:border-vaa-gold focus:bg-white focus:ring-4 focus:ring-vaa-gold/20"
           />
         </div>
@@ -73,6 +91,12 @@ export function MajorDirectory() {
       <div className="grid gap-4">
         {filteredFaculties.map((faculty, index) => {
           const open = openFacultyIds.has(faculty.id);
+          const prefixes2026 = prefixes2026ByFaculty.get(faculty.id) ?? [];
+          const patterns = [
+            ...faculty.patterns.map((value) => ({ value, cohort2026: false })),
+            ...prefixes2026.map((prefix) => ({ value: `xx${prefix}xxx`, cohort2026: true }))
+          ];
+          const tokens = [...new Set([...faculty.tokens, ...prefixes2026])];
           const colorClass = palette[index % palette.length];
 
           return (
@@ -90,7 +114,7 @@ export function MajorDirectory() {
                   <div className="min-w-0">
                     <h2 className="text-lg font-bold text-vaa-text">{faculty.name}</h2>
                     <p className="mt-1 text-sm text-vaa-muted">
-                      {faculty.patterns.length} mẫu mã, {faculty.tokens.length} token
+                      {patterns.length} mẫu mã, {tokens.length} token
                     </p>
                   </div>
                 </div>
@@ -106,12 +130,13 @@ export function MajorDirectory() {
                     <div>
                       <p className="mb-3 text-sm font-bold text-vaa-text">Mẫu mã ngành</p>
                       <div className="flex flex-wrap gap-2">
-                        {faculty.patterns.map((pattern) => (
+                        {patterns.map((pattern) => (
                           <span
-                            key={pattern}
+                            key={`${pattern.cohort2026 ? "2026" : "legacy"}-${pattern.value}`}
+                            title={pattern.cohort2026 ? "Áp dụng cho khóa 2026" : undefined}
                             className="rounded-full border border-vaa-border bg-[#F8FAFC] px-3 py-1.5 text-sm font-semibold text-vaa-text"
                           >
-                            {pattern}
+                            {pattern.value}
                           </span>
                         ))}
                       </div>
@@ -120,9 +145,10 @@ export function MajorDirectory() {
                     <div>
                       <p className="mb-3 text-sm font-bold text-vaa-text">Token dự phòng</p>
                       <div className="flex flex-wrap gap-2">
-                        {faculty.tokens.map((token) => (
+                        {tokens.map((token) => (
                           <span
                             key={token}
+                            title={prefixes2026.includes(token) ? "Áp dụng cho khóa 2026" : undefined}
                             className="rounded-full bg-vaa-navy/[0.08] px-3 py-1.5 text-sm font-semibold text-vaa-navy"
                           >
                             {token}

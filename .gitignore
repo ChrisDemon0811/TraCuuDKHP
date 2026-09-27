@@ -5,6 +5,10 @@ dist
 .vercel
 .env*
 !.env.example
+storageState.json
+auth.json
+cookies.json
+data/raw/2026/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

@@ -1,4 +1,5 @@
-import { faculties, schedules } from "@/lib/data";
+import classMappings2026 from "@/data/class-mappings-2026.json";
+import { faculties, facultyById, schedules } from "@/lib/data";
 import type {
   FacultyDetection,
   LookupResult,
@@ -8,6 +9,21 @@ import type {
 
 const QTKD_FACULTY_ID = "quan-tri-kinh-doanh";
 const QTKD_2025_AMBIGUOUS_SCHEDULE_IDS = new Set(["2025-3f", "2025-3g"]);
+const mapping2026 = classMappings2026 as {
+  classMappings: Record<string, {
+    facultyId: string;
+    majorIds: string[];
+    confidence: "high";
+  }>;
+  knownUnresolvedClassCodes: string[];
+  safePrefixRules: Array<{ prefix: string; facultyId: string; observedClassCount: number }>;
+  curatedFacultyPrefixRules: Array<{ prefix: string; facultyId: string; source: string }>;
+  majors: Array<{ id: string; name: string; facultyId: string | null }>;
+};
+const unresolved2026 = new Set(mapping2026.knownUnresolvedClassCodes);
+const safePrefixes2026 = new Map((mapping2026.safePrefixRules ?? []).map((rule) => [rule.prefix, rule]));
+const curatedPrefixes2026 = new Map((mapping2026.curatedFacultyPrefixRules ?? []).map((rule) => [rule.prefix, rule]));
+const majorNames2026 = new Map(mapping2026.majors.map((major) => [major.id, major.name]));
 
 export function normalizeClassCode(input: string): string {
   return input.trim().normalize("NFC").toLocaleUpperCase("vi-VN").replace(/\s+/g, "");
@@ -53,6 +69,31 @@ export function extractCohort(code: string): number | null {
 
 export function detectFaculty(code: string): FacultyDetection[] {
   const normalizedCode = normalizeClassCode(code);
+  if (extractCohort(normalizedCode) === 2026) {
+    const mapping = mapping2026.classMappings[normalizedCode];
+    if (mapping) {
+      const faculty = facultyById.get(mapping.facultyId);
+      return faculty ? [{
+        faculty,
+        matchedPatterns: [],
+        matchedTokens: [],
+        matchKind: "class_mapping"
+      }] : [];
+    }
+
+    // A validated 2026 prefix works with or without the optional class number.
+    const prefix = normalizedCode.match(/^26([A-Z]{2})\d*$/u)?.[1];
+    const safeRule = prefix && safePrefixes2026.get(prefix);
+    const curatedRule = prefix && curatedPrefixes2026.get(prefix);
+    const rule = safeRule || curatedRule;
+    const faculty = rule && facultyById.get(rule.facultyId);
+    return faculty ? [{
+      faculty,
+      matchedPatterns: [],
+      matchedTokens: [prefix],
+      matchKind: safeRule ? "cohort_prefix" : "curated_prefix"
+    }] : [];
+  }
   const detections = faculties
     .map((faculty) => {
       const matchedPatterns = faculty.patterns.filter((pattern) =>
@@ -71,7 +112,7 @@ export function detectFaculty(code: string): FacultyDetection[] {
         matchKind: matchedPatterns.length > 0 ? "pattern" : "token"
       } satisfies FacultyDetection;
     })
-    .filter((match): match is FacultyDetection => Boolean(match));
+    .filter((match): match is NonNullable<typeof match> => match !== null);
 
   const patternMatches = detections.filter((match) => match.matchedPatterns.length > 0);
 
@@ -126,7 +167,9 @@ export function findSchedulesForClassCode(input: string): LookupResult {
       input,
       normalizedCode,
       cohort,
-      message: "Chưa nhận diện được khoa/ngành từ mã lớp này."
+      message: cohort === 2026 && unresolved2026.has(normalizedCode)
+        ? "Mã lớp 2026 đã có trong nguồn lịch, nhưng chưa đủ bằng chứng để xác định khoa/ngành chính xác."
+        : "Chưa nhận diện được khoa/ngành từ mã lớp này."
     });
   }
 
@@ -142,6 +185,11 @@ export function findSchedulesForClassCode(input: string): LookupResult {
   }
 
   const selectedFaculty = facultyMatches[0];
+  const majorNames = cohort === 2026
+    ? mapping2026.classMappings[normalizedCode]?.majorIds
+      .map((id) => majorNames2026.get(id))
+      .filter((name): name is string => Boolean(name))
+    : undefined;
   const { matches, warnings } = findSchedulesForFaculty(cohort, selectedFaculty);
 
   if (matches.length === 0) {
@@ -152,7 +200,14 @@ export function findSchedulesForClassCode(input: string): LookupResult {
       cohort,
       facultyMatches,
       selectedFaculty,
-      message: "Đã nhận diện được khoa/ngành nhưng chưa có lịch đăng ký trong dữ liệu hiện tại."
+      majorNames,
+      message: cohort === 2026
+        ? selectedFaculty.matchKind === "curated_prefix"
+          ? "Đã nhận diện khoa theo bảng đối chiếu tiền tố khóa 2026. Chưa xác định ngành cụ thể hoặc lịch đăng ký trong dữ liệu hiện tại."
+          : selectedFaculty.matchKind === "cohort_prefix"
+          ? "Đã nhận diện khoa từ tiền tố mã lớp 2026 đã kiểm chứng. Chưa có lịch đăng ký khóa 2026 trong dữ liệu hiện tại."
+          : "Đã nhận diện được khoa/ngành, nhưng chưa có lịch đăng ký học phần khóa 2026 trong dữ liệu hiện tại."
+        : "Đã nhận diện được khoa/ngành nhưng chưa có lịch đăng ký trong dữ liệu hiện tại."
     });
   }
 
@@ -163,6 +218,7 @@ export function findSchedulesForClassCode(input: string): LookupResult {
     cohort,
     facultyMatches,
     selectedFaculty,
+    majorNames,
     schedules: matches,
     warnings,
     message: "Đã tìm thấy lịch đăng ký phù hợp."

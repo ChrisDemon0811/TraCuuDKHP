@@ -1,0 +1,1071 @@
+{
+  "cohort": 2026,
+  "academicYear": "2026-2027",
+  "semester": 1,
+  "sourceFetchedAt": "2026-09-27T08:01:55.740Z",
+  "majors": [
+    {
+      "id": "pdt-11",
+      "name": "Công nghệ kỹ thuật công trình xây dựng",
+      "facultyId": "xay-dung"
+    },
+    {
+      "id": "pdt-2",
+      "name": "Công nghệ thông tin",
+      "facultyId": "cong-nghe-thong-tin"
+    },
+    {
+      "id": "pdt-7",
+      "name": "Kinh tế vận tải",
+      "facultyId": "kinh-te-hang-khong"
+    },
+    {
+      "id": "pdt-12",
+      "name": "Ngôn ngữ Anh",
+      "facultyId": "ngoai-ngu"
+    },
+    {
+      "id": "pdt-13",
+      "name": "Ngôn ngữ Hàn Quốc",
+      "facultyId": "ngoai-ngu"
+    },
+    {
+      "id": "pdt-14",
+      "name": "Ngôn ngữ Trung Quốc",
+      "facultyId": "ngoai-ngu"
+    },
+    {
+      "id": "pdt-4",
+      "name": "Quản trị dịch vụ du lịch và lữ hành",
+      "facultyId": "du-lich-dich-vu-hang-khong"
+    }
+  ],
+  "classMappings": {
+    "26CE101": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101401",
+        "011152101501",
+        "011152103101"
+      ]
+    },
+    "26CE102": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101405",
+        "011152101505",
+        "011152103107"
+      ]
+    },
+    "26CE201": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101402",
+        "011152101502",
+        "011152103102"
+      ]
+    },
+    "26CE202": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101403",
+        "011152101503",
+        "011152103103"
+      ]
+    },
+    "26CE203": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101404",
+        "011152101504",
+        "011152103104"
+      ]
+    },
+    "26CE204": {
+      "facultyId": "xay-dung",
+      "majorIds": [
+        "pdt-11"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "011152101406",
+        "011152101506",
+        "011152103108"
+      ]
+    },
+    "26CH001": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210101",
+        "010171210109",
+        "010171210601",
+        "010171210609",
+        "010171211001",
+        "010171211009"
+      ]
+    },
+    "26CH002": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210102",
+        "010171210602",
+        "010171211002"
+      ]
+    },
+    "26CH003": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210103",
+        "010171210110",
+        "010171210603",
+        "010171210610",
+        "010171211003",
+        "010171211010"
+      ]
+    },
+    "26CH004": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210104",
+        "010171210604",
+        "010171211004"
+      ]
+    },
+    "26CH005": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210105",
+        "010171210111",
+        "010171210605",
+        "010171210611",
+        "010171211005",
+        "010171211011"
+      ]
+    },
+    "26CH006": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210106",
+        "010171210606",
+        "010171211006"
+      ]
+    },
+    "26CH007": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-14"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171210113",
+        "010171210114",
+        "010171210613",
+        "010171210614",
+        "010171211013",
+        "010171211014"
+      ]
+    },
+    "26EN001": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100101",
+        "010171100113",
+        "010171100601",
+        "010171100613",
+        "010171101101",
+        "010171101113",
+        "010171101301",
+        "010171101313"
+      ]
+    },
+    "26EN002": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100102",
+        "010171100602",
+        "010171101102",
+        "010171101302"
+      ]
+    },
+    "26EN003": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100103",
+        "010171100114",
+        "010171100603",
+        "010171100614",
+        "010171101103",
+        "010171101114",
+        "010171101303",
+        "010171101314"
+      ]
+    },
+    "26EN004": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100104",
+        "010171100604",
+        "010171101104",
+        "010171101304"
+      ]
+    },
+    "26EN005": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100105",
+        "010171100115",
+        "010171100605",
+        "010171100615",
+        "010171101105",
+        "010171101115",
+        "010171101305",
+        "010171101315"
+      ]
+    },
+    "26EN006": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100106",
+        "010171100606",
+        "010171101106",
+        "010171101306"
+      ]
+    },
+    "26EN007": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100107",
+        "010171100116",
+        "010171100607",
+        "010171100616",
+        "010171101107",
+        "010171101116",
+        "010171101307",
+        "010171101316"
+      ]
+    },
+    "26EN008": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100108",
+        "010171100608",
+        "010171101108",
+        "010171101308"
+      ]
+    },
+    "26EN009": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100109",
+        "010171100117",
+        "010171100609",
+        "010171100617",
+        "010171101109",
+        "010171101117",
+        "010171101309",
+        "010171101317"
+      ]
+    },
+    "26EN010": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100110",
+        "010171100610",
+        "010171101110",
+        "010171101310"
+      ]
+    },
+    "26EN011": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100111",
+        "010171100118",
+        "010171100611",
+        "010171100618",
+        "010171101111",
+        "010171101118",
+        "010171101311",
+        "010171101318"
+      ]
+    },
+    "26EN012": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100112",
+        "010171100612",
+        "010171101112",
+        "010171101312"
+      ]
+    },
+    "26EN013": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100119",
+        "010171100122",
+        "010171100619",
+        "010171100622",
+        "010171101119",
+        "010171101122",
+        "010171101319",
+        "010171101322"
+      ]
+    },
+    "26EN014": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-12"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171100120",
+        "010171100620",
+        "010171101120",
+        "010171101320"
+      ]
+    },
+    "26IT101": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100101",
+        "010151100201",
+        "010151100501"
+      ]
+    },
+    "26IT102": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100102",
+        "010151100202",
+        "010151100502"
+      ]
+    },
+    "26IT201": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100105",
+        "010151100205",
+        "010151100505"
+      ]
+    },
+    "26IT202": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100106",
+        "010151100206",
+        "010151100506"
+      ]
+    },
+    "26IT203": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100107",
+        "010151100207",
+        "010151100507"
+      ]
+    },
+    "26IT204": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100108",
+        "010151100208",
+        "010151100508"
+      ]
+    },
+    "26IT205": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100109",
+        "010151100209",
+        "010151100509"
+      ]
+    },
+    "26IT301": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100103",
+        "010151100203",
+        "010151100503"
+      ]
+    },
+    "26IT302": {
+      "facultyId": "cong-nghe-thong-tin",
+      "majorIds": [
+        "pdt-2"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010151100104",
+        "010151100204",
+        "010151100504"
+      ]
+    },
+    "26KO001": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-13"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171310101",
+        "010171310104",
+        "010171310501",
+        "010171310504",
+        "010171310901",
+        "010171310904"
+      ]
+    },
+    "26KO002": {
+      "facultyId": "ngoai-ngu",
+      "majorIds": [
+        "pdt-13"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010171310102",
+        "010171310502",
+        "010171310902"
+      ]
+    },
+    "26TE101": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006016",
+        "010173202201"
+      ]
+    },
+    "26TE102": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006019",
+        "010173202202"
+      ]
+    },
+    "26TE103": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006018",
+        "010173202203"
+      ]
+    },
+    "26TE104": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006020",
+        "010173202204"
+      ]
+    },
+    "26TE105": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006034",
+        "010173202211"
+      ]
+    },
+    "26TE201": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006026",
+        "010173202205"
+      ]
+    },
+    "26TE202": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006027",
+        "010173202206"
+      ]
+    },
+    "26TE203": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006028",
+        "010173202207"
+      ]
+    },
+    "26TE204": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006029",
+        "010173202208"
+      ]
+    },
+    "26TE205": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006030",
+        "010173202209"
+      ]
+    },
+    "26TE206": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006031",
+        "010173202210"
+      ]
+    },
+    "26TE207": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006035",
+        "010173202212"
+      ]
+    },
+    "26TE208": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006036",
+        "010173202213"
+      ]
+    },
+    "26TE701": {
+      "facultyId": "kinh-te-hang-khong",
+      "majorIds": [
+        "pdt-7"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010110006037",
+        "010173202214"
+      ]
+    },
+    "26TT101": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110103",
+        "010172110203"
+      ]
+    },
+    "26TT102": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110104",
+        "010172110204"
+      ]
+    },
+    "26TT103": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110105",
+        "010172110205"
+      ]
+    },
+    "26TT104": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110115",
+        "010172110215"
+      ]
+    },
+    "26TT201": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110111",
+        "010172110211"
+      ]
+    },
+    "26TT202": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110112",
+        "010172110212"
+      ]
+    },
+    "26TT203": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110113",
+        "010172110213"
+      ]
+    },
+    "26TT301": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110106",
+        "010172110206"
+      ]
+    },
+    "26TT302": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110107",
+        "010172110207"
+      ]
+    },
+    "26TT303": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110108",
+        "010172110208"
+      ]
+    },
+    "26TT304": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110117",
+        "010172110217"
+      ]
+    },
+    "26TT401": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110101",
+        "010172110201"
+      ]
+    },
+    "26TT402": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110102",
+        "010172110202"
+      ]
+    },
+    "26TT403": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110118",
+        "010172110218"
+      ]
+    },
+    "26TT501": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110109",
+        "010172110209"
+      ]
+    },
+    "26TT502": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110110",
+        "010172110210"
+      ]
+    },
+    "26TT503": {
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "majorIds": [
+        "pdt-4"
+      ],
+      "confidence": "high",
+      "supportingCourseClassCodes": [
+        "010172110114",
+        "010172110214"
+      ]
+    }
+  },
+  "knownUnresolvedClassCodes": [
+    "26AC101",
+    "26AC201",
+    "26AE001",
+    "26AE002",
+    "26AE003",
+    "26AE101",
+    "26AE102",
+    "26AE201",
+    "26AE202",
+    "26AE701",
+    "26AT001",
+    "26AT002",
+    "26AT003",
+    "26AT701",
+    "26BA001",
+    "26BA002",
+    "26BA003",
+    "26BA004",
+    "26BA005",
+    "26BA006",
+    "26BA007",
+    "26BA008",
+    "26BA009",
+    "26BA010",
+    "26BA011",
+    "26BA012",
+    "26BA013",
+    "26BA501",
+    "26BA502",
+    "26BA503",
+    "26BA701",
+    "26BA702",
+    "26DE001",
+    "26DE002",
+    "26DE003",
+    "26DE004",
+    "26ET101",
+    "26ET201",
+    "26ET301",
+    "26FT001",
+    "26FT002",
+    "26FT003",
+    "26FT004",
+    "26FT005",
+    "26HR001",
+    "26HR002",
+    "26HR003",
+    "26HR004",
+    "26HR005",
+    "26HR006",
+    "26HR007",
+    "26HR008",
+    "26IB101",
+    "26IB102",
+    "26IB103",
+    "26KO003",
+    "26LA001",
+    "26LA002",
+    "26LA003",
+    "26MK001",
+    "26MK002",
+    "26MK003",
+    "26MK004",
+    "26MK005",
+    "26MK006",
+    "26MK007",
+    "26MK008",
+    "26MK009"
+  ],
+  "safePrefixRules": [
+    {
+      "prefix": "CE",
+      "facultyId": "xay-dung",
+      "observedClassCount": 6
+    },
+    {
+      "prefix": "CH",
+      "facultyId": "ngoai-ngu",
+      "observedClassCount": 7
+    },
+    {
+      "prefix": "EN",
+      "facultyId": "ngoai-ngu",
+      "observedClassCount": 14
+    },
+    {
+      "prefix": "IT",
+      "facultyId": "cong-nghe-thong-tin",
+      "observedClassCount": 9
+    },
+    {
+      "prefix": "TE",
+      "facultyId": "kinh-te-hang-khong",
+      "observedClassCount": 14
+    },
+    {
+      "prefix": "TT",
+      "facultyId": "du-lich-dich-vu-hang-khong",
+      "observedClassCount": 17
+    }
+  ],
+  "curatedFacultyPrefixRules": [
+    {
+      "prefix": "AC",
+      "facultyId": "dien-dien-tu",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "ET",
+      "facultyId": "dien-dien-tu",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "AE",
+      "facultyId": "ky-thuat-hang-khong",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "AT",
+      "facultyId": "khai-thac-hang-khong",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "BA",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "HR",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "MK",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "FT",
+      "facultyId": "quan-tri-kinh-doanh",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "DE",
+      "facultyId": "kinh-te-hang-khong",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "IB",
+      "facultyId": "kinh-te-hang-khong",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "KO",
+      "facultyId": "ngoai-ngu",
+      "source": "user_provided_faculty_mapping"
+    },
+    {
+      "prefix": "LA",
+      "facultyId": "xay-dung",
+      "source": "user_provided_faculty_mapping"
+    }
+  ],
+  "safeTokensObserved": [
+    "CE",
+    "CH",
+    "EN",
+    "IT",
+    "TE",
+    "TT"
+  ]
+}

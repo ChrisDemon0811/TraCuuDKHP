@@ -5,7 +5,13 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "data:2026:fetch": "node --env-file-if-exists=.env --env-file-if-exists=.env.local scripts/data-2026.mjs fetch",
+    "data:2026:process": "node scripts/data-2026.mjs process",
+    "data:2026:validate": "node scripts/data-2026.mjs validate",
+    "data:2026": "node --env-file-if-exists=.env --env-file-if-exists=.env.local scripts/data-2026.mjs all",
+    "test:data:2026": "node --test scripts/data-2026.test.mjs",
+    "test:form-lockers": "tsx scripts/form-locker-status.test.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -22,8 +28,10 @@
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.20",
+    "cheerio": "^1.2.0",
     "postcss": "^8.5.10",
     "tailwindcss": "^3.4.14",
+    "tsx": "^4.23.15",
     "typescript": "^5.6.3"
   },
   "overrides": {
